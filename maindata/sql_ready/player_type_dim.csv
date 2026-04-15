@@ -1,0 +1,5 @@
+player_type_dim_id,player_type,player_type_normalized
+1,Defender,defender
+2,Forward,forward
+3,Goalkeeper,goalkeeper
+4,Midfielder,midfielder

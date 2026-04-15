@@ -1,0 +1,177 @@
+country_dim_id,country_name,country_name_normalized
+1,Afghanistan,afghanistan
+2,Albania,albania
+3,Algeria,algeria
+4,Andorra,andorra
+5,Angola,angola
+6,Argentina,argentina
+7,Armenia,armenia
+8,Australia,australia
+9,Austria,austria
+10,Azerbaijan,azerbaijan
+11,Bahrain,bahrain
+12,Bangladesh,bangladesh
+13,Belarus,belarus
+14,Belgium,belgium
+15,Belize,belize
+16,Benin,benin
+17,Bhutan,bhutan
+18,Bolivia,bolivia
+19,Bosnia and Herzegovina,bosnia and herzegovina
+20,Bosnia-Herzegovina,bosnia herzegovina
+21,Botsuana,botsuana
+22,Brazil,brazil
+23,Bulgaria,bulgaria
+24,Burkina Faso,burkina faso
+25,Burundi,burundi
+26,Cambodia,cambodia
+27,Cameroon,cameroon
+28,Canada,canada
+29,Cape Verde Islands,cape verde islands
+30,Central African Republic,central african republic
+31,Chile,chile
+32,China,china
+33,China PR,china pr
+34,Chinese Taipei,chinese taipei
+35,Chinese Taipei (Taiwan),chinese taipei taiwan
+36,Colombia,colombia
+37,Comoros,comoros
+38,Congo,congo
+39,Congo DR,congo dr
+40,Costa Rica,costa rica
+41,Côte d'Ivoire,cote d ivoire
+42,Croatia,croatia
+43,Curacao,curacao
+44,Cyprus,cyprus
+45,Czech Republic,czech republic
+46,Denmark,denmark
+47,Djibouti,djibouti
+48,Dominican Republic,dominican republic
+49,DR Congo,dr congo
+50,Ecuador,ecuador
+51,Egypt,egypt
+52,El Salvador,el salvador
+53,England,england
+54,Equatorial Guinea,equatorial guinea
+55,Estonia,estonia
+56,Ethiopia,ethiopia
+57,Faroe Islands,faroe islands
+58,Fiji,fiji
+59,Finland,finland
+60,France,france
+61,Gabon,gabon
+62,Gambia,gambia
+63,Georgia,georgia
+64,Germany,germany
+65,Ghana,ghana
+66,Gibraltar,gibraltar
+67,Greece,greece
+68,Guadeloupe,guadeloupe
+69,Guatemala,guatemala
+70,Guinea,guinea
+71,Guinea Bissau,guinea bissau
+72,Haiti,haiti
+73,Honduras,honduras
+74,Hong Kong,hong kong
+75,Hongkong,hongkong
+76,Hungary,hungary
+77,Iceland,iceland
+78,India,india
+79,Indonesia,indonesia
+80,Iran,iran
+81,Iraq,iraq
+82,Ireland,ireland
+83,Israel,israel
+84,Italy,italy
+85,Jamaica,jamaica
+86,Japan,japan
+87,Jordan,jordan
+88,Kazakhstan,kazakhstan
+89,Kenya,kenya
+90,Korea Republic,korea republic
+91,"Korea, South",korea south
+92,Kosovo,kosovo
+93,Kuwait,kuwait
+94,Kyrgyzstan,kyrgyzstan
+95,Latvia,latvia
+96,Lebanon,lebanon
+97,Liberia,liberia
+98,Libya,libya
+99,Liechtenstein,liechtenstein
+100,Lithuania,lithuania
+101,Luxembourg,luxembourg
+102,Madagascar,madagascar
+103,Malaysia,malaysia
+104,Maldives,maldives
+105,Mali,mali
+106,Malta,malta
+107,Mauritania,mauritania
+108,Mauritius,mauritius
+109,Mexico,mexico
+110,Moldova,moldova
+111,Monaco,monaco
+112,Mongolia,mongolia
+113,Montenegro,montenegro
+114,Morocco,morocco
+115,Mozambique,mozambique
+116,Myanmar,myanmar
+117,Namibia,namibia
+118,Nepal,nepal
+119,Netherlands,netherlands
+120,New Zealand,new zealand
+121,Nicaragua,nicaragua
+122,Nigeria,nigeria
+123,North Macedonia,north macedonia
+124,Northern Ireland,northern ireland
+125,Norway,norway
+126,Oman,oman
+127,Palästina,palastina
+128,Palestine,palestine
+129,Panama,panama
+130,Paraguay,paraguay
+131,Peru,peru
+132,Philippines,philippines
+133,Poland,poland
+134,Portugal,portugal
+135,Qatar,qatar
+136,Republic of Ireland,republic of ireland
+137,Réunion,reunion
+138,Romania,romania
+139,Russia,russia
+140,Rwanda,rwanda
+141,San Marino,san marino
+142,Saudi Arabia,saudi arabia
+143,Scotland,scotland
+144,Senegal,senegal
+145,Serbia,serbia
+146,Sierra Leone,sierra leone
+147,Singapore,singapore
+148,Slovakia,slovakia
+149,Slovenia,slovenia
+150,South Africa,south africa
+151,South Sudan,south sudan
+152,Spain,spain
+153,Sudan,sudan
+154,Suriname,suriname
+155,Sweden,sweden
+156,Switzerland,switzerland
+157,Syria,syria
+158,Tajikistan,tajikistan
+159,Tanzania,tanzania
+160,Thailand,thailand
+161,Togo,togo
+162,Trinidad and Tobago,trinidad and tobago
+163,Tunisia,tunisia
+164,Turkey,turkey
+165,Turkmenistan,turkmenistan
+166,Uganda,uganda
+167,Ukraine,ukraine
+168,United Arab Emirates,united arab emirates
+169,United States,united states
+170,Uruguay,uruguay
+171,Uzbekistan,uzbekistan
+172,Vanuatu,vanuatu
+173,Venezuela,venezuela
+174,Vietnam,vietnam
+175,Wales,wales
+176,Zambia,zambia

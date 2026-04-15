@@ -1,0 +1,601 @@
+player_key,player_name,player_name_normalized,position_dim_id,position,age,transfer_record_count,first_transfer_date,last_transfer_date,player_match_status,player_name_match_key,player_id,fifa_version,fifa_update,short_name,long_name,overall,potential,team_id,team_name,team_country_dim_id,team_league_dim_id,team_league_name,nationality_country_dim_id,nationality_name,fifa_update_date,player_source_table
+e0c7fdede9da1cd7b2ab47dddbb8534752b6e015,Óscar Fornés,oscar fornes,8,Goalkeeper,38,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+af3f20ecdc152a45ccd9c81760f059964a0f732e,Luis Nuño,luis nuno,11,Left Winger,28,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+22b741b46e513fed5c3d1512c51a72ef4ae91865,Gorka Alegría,gorka alegria,8,Goalkeeper,24,1,2022-07-01,2022-07-01,matched_unique_name,gorka alegria,236032,17,61,Gorka Alegría,Gorka Alegría Saralegui,60,67,477,Numancia,152,388,La Liga 2,152,Spain,2017-05-08,male_players.csv
+dcb74e168d96f7d4805ddede007ef44b970ed248,Cavafe,cavafe,4,Centre-Back,23,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+aba5e220c797253afa5c3c189ada8078002ed6f3,Stefano Gibellini,stefano gibellini,11,Left Winger,26,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+4ae2e617c40359ae5b86595647bb3b9d07416945,Sebastián Sánchez,sebastian sanchez,4,Centre-Back,33,1,2022-07-01,2022-07-01,matched_unique_name,sebastian sanchez,228679,15,59,S. Sánchez,Sebastián Sánchez,52,62,112534,Univ. Concepción,,,Primera Division,31,Chile,2015-09-10,male_players.csv
+f3f3e1372ba25713e092dff425a339285b3fbfa5,Dario Sottovia,dario sottovia,5,Centre-Forward,32,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+5d41589c0c1f2025d3e2a0099d0776a0beb0f7bc,Alessio Ciletta,alessio ciletta,6,defence,24,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+b59165a2dce3fb523005573739fd88796795babf,Cristian Spini,cristian spini,11,Left Winger,20,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+7cb6747ff9f4dbd0de5334d035557612eea2ce01,Giovanni Benericetti,giovanni benericetti,5,Centre-Forward,22,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+2548110240fc366af1e4454e52e1883885ebd060,Cristian Casarini,cristian casarini,4,Centre-Back,19,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+d2012f1839c18e6d4d24afa40ecaaf256443d2a7,Julian Pietrangeli,julian pietrangeli,3,Central Midfield,20,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+d3c684a3092d2e8eab05d07f281951183a74eabe,Imre Vankó,imre vanko,11,Left Winger,28,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+cbefc1afa84a16fdbfe15638f6004f168ee6cc11,Marvin Géran,marvin geran,15,Right Winger,26,1,2022-07-01,2022-07-01,matched_unique_name,marvin geran,248763,20,20,M. Geran,Marvin Geran,58,64,112627,Chambly,,,Ligue 2,60,France,2020-01-06,male_players.csv
+9add99f0c1f8563e71afe16451d8d18d121053d0,Adrian Viorica,adrian viorica,11,Left Winger,30,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+f5d4a7c5029b26e3fa3f80e5dd44147abc9256f6,Steven Kirilov,steven kirilov,11,Left Winger,25,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+79c8cd976521d46518b109ab8439302bc5723bf7,Petre Simon,petre simon,5,Centre-Forward,21,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+cd9472c96050137db3b497029800dda8042b29c2,Jack Ruddy,jack ruddy,8,Goalkeeper,24,2,2022-07-01,2022-08-08,unmatched,,,,,,,,,,,138,415,,,,,
+051af067c8c15d839752480c9ec78ae3d264f961,Alexandros Antoniou,alexandros antoniou,8,Goalkeeper,22,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+9ae97b3a71d933a14c6d4ce20e84a498ab159c57,Mihailo Dragicevic,mihailo dragicevic,8,Goalkeeper,22,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+01500b2c93fffaab938a75d220e4956abbf49734,Janko Tumbasevic,janko tumbasevic,3,Central Midfield,37,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+cb8ea83d80b257392abac6a95bcbac0aea804480,Osmar Molinas,osmar molinas,7,Defensive Midfield,35,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+f3d22014c343fdc00acc1c48260a7671c8b68e23,Calin Cristea,calin cristea,3,Central Midfield,34,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+ab94af53c9e48340d691829dc443a15755ce12fa,Sattyam Sharma,sattyam sharma,14,Right Midfield,27,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+60ebed9e755cfb1d4c42051ad6c10bb87bba6805,Nathan Murr,nathan murr,3,Central Midfield,20,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+9c38dbc662851062f4902f6cddd20bb51ecc3dc1,Anthony Angelini,anthony angelini,3,Central Midfield,22,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+c3b654dcb40e43f7868df349092f275e0bc812cc,Mads Steenberg,mads steenberg,13,Right-Back,21,1,2022-07-01,2022-07-01,matched_unique_name,mads steenberg,257222,21,19,M. Steenberg,Mads Steenberg,50,65,1447,SønderjyskE,,,Superliga,46,Denmark,2021-01-06,male_players.csv
+727d0b732f637a2b9f2a7601b8367fa5e3600190,Dan Roberts,dan roberts,13,Right-Back,22,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+682b4777a4ef23d24e1f23646974f40931332bb7,James O'Neill,james o neill,4,Centre-Back,27,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+dbd172892004fecd4142f17d2f3a6ca1312cc5ed,Vlad Motroc,vlad motroc,4,Centre-Back,23,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+843b6091fdc001800b17ef90131870b7469de890,Shalva Nadiradze,shalva nadiradze,4,Centre-Back,23,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+1d90173a33c7bbdc4d7c387efcf021d9785b612f,Ilir Gjuzi,ilir gjuzi,5,Centre-Forward,18,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+c6b739bf14799ff4f29bd3218c37b8f4dccd31e3,Dino Fazlic,dino fazlic,7,Defensive Midfield,30,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+781c29c3b906f315b4a4e323cdc20be246518d25,Charmaine Häusl,charmaine hausl,4,Centre-Back,26,1,2022-07-01,2022-07-01,matched_unique_name,charmaine hausl,251584,20,61,C. Häusl,Charmaine Häusl,59,64,111379,Sonnenhof Großaspach,64,330,3. Liga,64,Germany,2020-09-23,male_players.csv
+ca75ab93edfa6fcaa7c23eafbff60b64e2325a75,Irwin Pfeiffer,irwin pfeiffer,11,Left Winger,23,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+edb0341ef4914b999e4293d8bed8d0ffcf1824e7,Viktor Weber,viktor weber,8,Goalkeeper,19,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+88f869e0cf66d0bf3e52e471f9497c3f9f2b32b0,Shayan Roy,shayan roy,8,Goalkeeper,30,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+81d4f320165a69a7b884865b876d96a07d9d87ef,Neel Kissling,neel kissling,8,Goalkeeper,18,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+5aeaecd21e02d86d0eaad7d50ef83ea9844e9b03,Telor Williams,telor williams,9,Left-Back,20,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+916dfa56bf6653388dd2cda949eeacb988cdc2de,Sambou Sarr,sambou sarr,4,Centre-Back,21,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+55d8ca240b4c20820b627814ce5626a817cb219e,Karol Plonka,karol plonka,1,attack,19,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+267d8fc12d61518ff38273a5c16288b4fa778a67,Dafydd Carruthers,dafydd carruthers,5,Centre-Forward,24,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+13f3e5d3a9463e8ae109db5ac9a3650dca830e18,Bruno Ernandes,bruno ernandes,5,Centre-Forward,23,2,2022-07-01,2022-08-09,unmatched,,,,,,,,,,,138,415,,,,,
+f24b8b1edbee18b26f54ac561abeed319cdc7f76,Maxime Boin,maxime boin,5,Centre-Forward,21,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+cd7d23e615a8623c26285b70854cebbecca46da2,Tristan Matuba,tristan matuba,5,Centre-Forward,27,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+ba3025854a81ceffb91c75074b3944fba4ab13ab,Kader Bourtal,kader bourtal,2,Attacking Midfield,30,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+6d227959ffab61dd97a58902814a133db71dc776,Charley Edge,charley edge,2,Attacking Midfield,25,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+88b6e8e90231ef1b45feb2be6a9a969537404480,Rodolfo Orellana,rodolfo orellana,10,Left Midfield,27,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+499610c4aa9cc0b9e678e6ea39550c8d2fbf015f,Julian Knoll,julian knoll,8,Goalkeeper,22,1,2022-07-01,2022-07-01,matched_unique_name,julian knoll,239699,18,84,J. Knoll,Julian Knoll,55,66,100424,Rot-Weiß Erfurt,,,3. Liga,64,Germany,2018-09-12,male_players.csv
+4806b55290846015e5b58e3f96a7b69f4d39d769,Cristiano Ingretolli,cristiano ingretolli,5,Centre-Forward,28,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+3959c8051ff9bfe3727f8b67243969283e6f2440,Riccardo Romani,riccardo romani,3,Central Midfield,30,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+07fd305c03a3f0d770adb951fbb4ece63b36e17e,Filippo Marricchi,filippo marricchi,8,Goalkeeper,23,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+abfe0bad5f4427a5c2a7c100b2aa2c61bf7d790e,Manin Gonzaga,manin gonzaga,5,Centre-Forward,22,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+f86d9e8f2e7e149c0b4521b93fa6955eab6e315d,Álex Benítez,alex benitez,3,Central Midfield,22,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+df1abfe5b82ab58f4a8efd58717851943077f3c3,Javi Valdés,javi valdes,15,Right Winger,25,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+8ca7cafb3cc099b6485faa9fe61096253363d3a7,Albert Ruiz,albert ruiz,5,Centre-Forward,27,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+63972de44067657a0dbc1fbcf4888c1e0dc8ecbd,José Val,jose val,13,Right-Back,23,1,2022-07-01,2022-07-01,matched_unique_name,jose val,263369,22,54,José Val,José Val Rincón,59,68,110839,Huesca,152,212,La Liga 2,152,Spain,2022-05-27,male_players.csv
+1ee6fa9ba7b0fd7a8b6d42641926042218b21afa,Faysal Chouaib,faysal chouaib,11,Left Winger,22,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+3edacff850387736b90e798c3ffabf350c971be2,Samuel Pérez,samuel perez,8,Goalkeeper,25,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+de8d41baa96c3748accbf2f8c933aa55bcf983f8,Iván Fernández,ivan fernandez,15,Right Winger,22,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+924cf57e0f541515abb9c14d02c9fbf4598eb76f,Matthias Steinborn,matthias steinborn,15,Right Winger,33,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+a5f03a590996cd021e7ecc94516157f99294b29b,João Mário,joao mario,11,Left Winger,28,1,2022-07-01,2022-07-01,matched_ambiguous_name,joao mario,212814,23,9,João Mário,João Mário Naval da Costa Eduardo,81,81,234,Benfica,134,246,Liga Portugal,134,Portugal,2023-01-13,male_players.csv
+14e9fc4dc90e119d3c369c26e5c53e2b7af4b769,Rory Holden,rory holden,15,Right Winger,24,1,2022-07-01,2022-07-01,matched_unique_name,rory holden,233655,23,9,R. Holden,Rory Holden,63,66,1928,Port Vale,,,League One,124,Northern Ireland,2023-01-13,male_players.csv
+1bd4422f19caeb09d0bc7acafd333f68526dd8b9,César Guillén,cesar guillen,11,Left Winger,25,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+2e097f59f08bd35b1d1135818be84e7c03be3fce,Kalifa Kujabi,kalifa kujabi,3,Central Midfield,22,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+0ca0b1e8a28539c29c30280b9ab38a40bd92aaf3,Stanislav Manaev,stanislav manaev,3,Central Midfield,23,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+8f5e4723ea86f9a9c4501ba3bf3fe7540c290312,Darko Misic,darko misic,13,Right-Back,31,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+ec1924d31e18d6ebb5702d6f9b6443a65053ca8e,Nivaldo,nivaldo,6,defence,33,1,2022-07-01,2022-07-01,matched_unique_name,nivaldo,221390,16,57,Nivaldo,José Nivaldo Martins Constante,67,67,112476,Chapecoense,22,433,Rest of World,22,Brazil,2016-09-14,male_players.csv
+9c6f4946cb1becbbb36b161e972860b33750fd0a,Luis de León,luis de leon,13,Right-Back,26,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+56c7a2aed44aa2eb0eb0edb7d06db0b27fe779f5,Rune Paeshuyse,rune paeshuyse,13,Right-Back,20,1,2022-07-01,2022-07-01,matched_unique_name,rune paeshuyse,269570,23,9,R. Paeshuyse,Rune Paeshuyse,59,72,2013,AS Eupen,14,191,Jupiler Pro League,14,Belgium,2023-01-13,male_players.csv
+702e288e58901e1e6f33b038c478755641af3db1,Marcin Biernat,marcin biernat,4,Centre-Back,30,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+c1dc8322f3ddb9113f1811feff9baa402b909be0,Loris Bernardy,loris bernardy,4,Centre-Back,21,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+51db8fa920aef646b1c13ebd26cd9e9cf8f029f8,Besir Ramadani,besir ramadani,4,Centre-Back,22,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+7a6f9695a5481a29cdee1c5ba8dbd65bfb3b0568,Scott Flinders,scott flinders,8,Goalkeeper,36,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+034b99e6270a86327f6675d7abde926e1e7433ef,Alexander Meyer,alexander meyer,8,Goalkeeper,31,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+0f9e599daa408f2438928a1eb7c521756948353c,Ioannis Gelios,ioannis gelios,8,Goalkeeper,30,1,2022-07-01,2022-07-01,matched_unique_name,ioannis gelios,204334,22,64,I. Gelios,Ioannis Gelios,69,69,576,Holstein Kiel,64,13,2. Bundesliga,67,Greece,2022-07-18,male_players.csv
+167a29b33aa6a6d98786fad764111c8aa75440d1,Magnus Norman,magnus norman,8,Goalkeeper,25,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+c51bbc80aa22f6d358acdd32b5890d487c7c79e5,Quentin Braat,quentin braat,8,Goalkeeper,24,1,2022-07-01,2022-07-01,matched_unique_name,quentin braat,231720,23,9,Q. Braat,Quentin Braat,67,72,110827,Real Oviedo,152,212,La Liga 2,60,France,2023-01-13,male_players.csv
+e42b6469e5a663f02148fc9ed1b36992d1e7dcfa,Neofytos Michail,neofytos michail,8,Goalkeeper,28,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+4f479c9e05462ca1cb7377f448af04b65631d791,Ehsan Ziyaei,ehsan ziyaei,8,Goalkeeper,30,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+c4369ae7896ad1171281a874a0b27fa640b2a0c9,Felix Wienand,felix wienand,8,Goalkeeper,20,1,2022-07-01,2022-07-01,matched_unique_name,felix wienand,265750,23,9,F. Wienand,Felix Wienand,60,72,526,Rot-Weiss Essen,64,37,3. Liga,64,Germany,2023-01-13,male_players.csv
+f5e62d8bc22c3304e9d41ed204fed4c64c871339,Gianmarco Sellitto,gianmarco sellitto,8,Goalkeeper,20,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+e093161ca97c3e44058d124da44c910f95b3788f,Marius Aldescu,marius aldescu,8,Goalkeeper,19,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+8294f7c8348397fd0bf8cc47517dd9fae6b67074,Ellis Allen,ellis allen,8,Goalkeeper,20,1,2022-07-01,2022-07-01,matched_unique_name,ellis allen,252839,20,61,E. Allen,Ellis Allen,51,69,1920,Oldham Athletic,53,303,League Two,53,England,2020-09-23,male_players.csv
+86752d573d3ff18b3dad7e31381480cb24e01a54,Harry Irving,harry irving,8,Goalkeeper,,2,2022-07-01,2022-08-27,unmatched,,,,,,,,,,,138,415,,,,,
+cc48737b42a44e63212a549920663fd5164ebea1,Jorge Correa,jorge correa,11,Left Winger,29,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+34c881adfe2acaeca847362d621b1405d79e9e66,Erich Berko,erich berko,11,Left Winger,27,1,2022-07-01,2022-07-01,matched_unique_name,erich berko,212000,22,64,E. Berko,Erich Berko,67,67,110178,Sandhausen,64,13,2. Bundesliga,64,Germany,2022-07-18,male_players.csv
+af532126cbebbece9e4b2c2434e43557fe5a6bd0,Edgar Babayan,edgar babayan,11,Left Winger,26,1,2022-07-01,2022-07-01,matched_unique_name,edgar babayan,220569,23,9,E. Babayan,Edgar Babayan,66,66,1786,Randers,46,473,Superliga,7,Armenia,2023-01-13,male_players.csv
+fc7a8309bb237baf9019b8d7cb66cc187808cc53,Strahinja Jovanovic,strahinja jovanovic,11,Left Winger,23,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+ae476f72ffa3eedae86d217b6d1ce2795106851e,Yogi Rahadian,yogi rahadian,11,Left Winger,26,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+36cec172f299e4de0f2d8462ed3c6badce6c1ae9,Dario Desnikj,dario desnikj,11,Left Winger,28,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+12589efe491a648cf09e968d3ece1c50d124304c,Pjotr Kestens,pjotr kestens,11,Left Winger,20,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+28002fc28d6c7021c3076de254c15e1f36177fa8,Filip Bilbija,filip bilbija,11,Left Winger,22,1,2022-07-01,2022-07-01,matched_unique_name,filip bilbija,252073,23,9,F. Bilbija,Filip Bilbija,67,77,28,Hamburger SV,64,13,2. Bundesliga,64,Germany,2023-01-13,male_players.csv
+0d71a476b106756633e06f7bf46da1ed466841ed,Bruno,bruno,11,Left Winger,23,1,2022-07-01,2022-07-01,matched_ambiguous_name,bruno,200228,23,9,Bruno,Bruno González Cabrera,67,67,459,Sporting Gijón,152,212,La Liga 2,152,Spain,2023-01-13,male_players.csv
+69ed4d5754682f036e1bf89d361a70e1cbe4603d,Nicolás Martínez,nicolas martinez,1,attack,31,1,2022-07-01,2022-07-01,matched_unique_name,nicolas martinez,210788,19,1,N. Martínez,Nicolás Martínez,72,72,280,Olympiakos Piraeus,,,Super League,6,Argentina,2018-07-19,male_players.csv
+bc57f213558af85c05784539711ffca21a3f82ff,Cian Evans,cian evans,1,attack,19,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+d5c71f94927870af7f241677da8e41e0352514f3,Ibrahim Baradji,ibrahim baradji,1,attack,26,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+f1e961aa8aae4c79773189f54a551dcdbb77cee9,Gerhard Progni,gerhard progni,15,Right Winger,35,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+2e70af56660d68a984291d0024affa96018b4ff0,Massimo Bruno,massimo bruno,15,Right Winger,28,1,2022-07-01,2022-07-01,matched_unique_name,massimo bruno,203633,23,9,M. Bruno,Massimo Bruno,70,70,100081,Kortrijk,14,191,Jupiler Pro League,14,Belgium,2023-01-13,male_players.csv
+9f4fd870bb876ab6522add906e0456077a0bdac2,Louis Robles,louis robles,15,Right Winger,25,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+b9c6e3ab6fa6f79d0dd7a4aca5cb53e6f35f4155,Sushil Meitei,sushil meitei,15,Right Winger,25,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+a290bc19bfcfc2ff4f421b648a69f505ac21b254,Andreas Komodikis,andreas komodikis,15,Right Winger,25,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+5ebf4b7c4b5efb4d2d9b3e5d7552a51c93328c6a,Joseph Amoah,joseph amoah,15,Right Winger,20,2,2022-07-01,2022-07-31,matched_unique_name,joseph amoah,228810,22,54,J. Amoah,Joseph Amoah,66,66,1887,Vitória SC,,,Liga Portugal,65,Ghana,2022-05-27,male_players.csv
+e236a7cb44b9805359d3a37d860e618599f9c2ef,Gjorgji Gjorgjiev,gjorgji gjorgjiev,15,Right Winger,26,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+7adcb28bd43b51c629a4c4f5b630ac3e82b53d23,Gauthier Raoul,gauthier raoul,15,Right Winger,21,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+b660b37833ee0f2e873edec8ad0abc58fd1230bd,Mathias Fetsch,mathias fetsch,5,Centre-Forward,33,1,2022-07-01,2022-07-01,matched_unique_name,mathias fetsch,203457,20,61,M. Fetsch,Mathias Fetsch,65,65,110482,Hallescher FC,64,37,3. Liga,64,Germany,2020-09-23,male_players.csv
+a884c6170a7bbb28d0c3d76d12855e1964e9b5d3,David Agudo,david agudo,5,Centre-Forward,33,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+7412c4af8e413cae8bb1639d22e348d2ddc7ded0,Joseph Mendes,joseph mendes,5,Centre-Forward,31,1,2022-07-01,2022-07-01,matched_unique_name,joseph mendes,202727,23,9,J. Mendes,Joseph Mendes,63,63,111659,Rodez,,,Ligue 2,71,Guinea Bissau,2023-01-13,male_players.csv
+6f3f3a6755ed9c3fd673b88d78204cb89b7ed5ba,Kamil Mullin,kamil mullin,5,Centre-Forward,28,1,2022-07-01,2022-07-01,matched_unique_name,kamil mullin,213853,18,46,K. Mullin,Kamil Mullin,58,64,110227,Rubin Kazan,139,4,Premier League,139,Russia,2018-02-26,male_players.csv
+d1523ecf01c578fa8cd56746b8c38e22716b46fb,Valentin Lavigne,valentin lavigne,5,Centre-Forward,28,1,2022-07-01,2022-07-01,matched_unique_name,valentin lavigne,221862,19,4,V. Lavigne,Valentin Lavigne,67,72,217,Lorient,60,251,Ligue 2,60,France,2018-09-24,male_players.csv
+c3d0cf5737aecdb84895d0fe1911cff2aa5b4f75,Stefan Hristov,stefan hristov,5,Centre-Forward,32,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+286a852dc9bd16635ecdafb5009b6d18a5b07880,Andrei Sintean,andrei sintean,5,Centre-Forward,23,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+dfc968747b8b781237567f8eb2a2310ecca75510,Dzenis Beganovic,dzenis beganovic,5,Centre-Forward,26,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+f8f9edf9fdf8e776e3748619932408e90932d27b,Fiete Arp,fiete arp,5,Centre-Forward,22,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+3839412fe5450227ee0fe0eece5ab920e030519a,Pedro Báez,pedro baez,5,Centre-Forward,25,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+0184f655ee39587c00b4b83f9f9414356f93630b,Bogdan Stamenkovic,bogdan stamenkovic,5,Centre-Forward,24,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+6e593d429813d51b8fc44e74b0abd62a9ae71b6a,Ilya Golyatov,ilya golyatov,5,Centre-Forward,20,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+637b55a50b149a1cbddfcd9616cc8fec528e2ba8,Apostolos Stamatelopoulos,apostolos stamatelopoulos,5,Centre-Forward,23,1,2022-07-01,2022-07-01,matched_unique_name,apostolos stamatelopoulos,241245,21,64,A. Stamatelopoulos,Apostolos Stamatelopoulos,56,64,111398,Newcastle Jets,,,A-League,8,Australia,2021-09-25,male_players.csv
+022bc3cdc674635bf8bc86338d145d86b8659a8d,Pepi Gjorgiev,pepi gjorgiev,5,Centre-Forward,27,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+69dc3b0a5f9841ec1afd41f636467219e79e75aa,Borislav Budinov,borislav budinov,5,Centre-Forward,22,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+2b981d2ac3dc9b893a8d7ce6a5df3ca30f4b401e,Filippo D'Arcangelo,filippo d arcangelo,5,Centre-Forward,19,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+171812287f9b86e8275c920e745ba295906d3dc5,Imran Bunjaku,imran bunjaku,7,Defensive Midfield,29,1,2022-07-01,2022-07-01,matched_unique_name,imran bunjaku,204901,22,1,I. Bunjaku,Imran Bunjaku,57,57,322,Grasshopper Club Zürich,156,461,Super League,92,Kosovo,2021-08-16,male_players.csv
+bb16e8aa1104851d18d802d4404df32b117062b6,Ionut Cioinac,ionut cioinac,7,Defensive Midfield,31,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+863c9fef837fda027962e15844c6a08b6d739c82,Maximilian Thalhammer,maximilian thalhammer,7,Defensive Midfield,24,1,2022-07-01,2022-07-01,matched_unique_name,maximilian thalhammer,239494,23,9,M. Thalhammer,Maximilian Thalhammer,68,72,543,Jahn Regensburg,64,13,2. Bundesliga,64,Germany,2023-01-13,male_players.csv
+39fe93af2dddc267c8682a8678dd744d861be587,Kristijan Ackovski,kristijan ackovski,7,Defensive Midfield,24,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+815c01261cdac2c1263d7eece6cf2a5cbc969db6,Guillaume Beghin,guillaume beghin,7,Defensive Midfield,25,1,2022-07-01,2022-07-01,matched_unique_name,guillaume beghin,239164,20,20,G. Beghin,Guillaume Beghin,58,66,64,Lens,,,Ligue 2,60,France,2020-01-06,male_players.csv
+6b5d1b838580c9672d6122e404d65a1a849ed397,Stefano Sacco,stefano sacco,7,Defensive Midfield,31,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+d0b8b695bc9555f8341f27617e6cd0928116ad60,Alexander Briedl,alexander briedl,7,Defensive Midfield,20,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+57ef91150c8aa070660bce2f2fe13abbc03c7842,Florin Purece,florin purece,2,Attacking Midfield,30,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+c876d14c97e78d12ca7fee4c4974d2774d5ea34f,Roberto Alves,roberto alves,2,Attacking Midfield,25,1,2022-07-01,2022-07-01,matched_unique_name,roberto alves,231460,23,9,Roberto Alves,Roberto Emanuel Oliveira Alves,67,72,111088,Radomiak Radom,133,130,Ekstraklasa,156,Switzerland,2023-01-13,male_players.csv
+52d2234bdeefe6ab6d5394b7ce33ee70ffc91bf8,Isi Gómez,isi gomez,2,Attacking Midfield,26,1,2022-07-01,2022-07-01,matched_unique_name,isi gomez,213709,21,4,Isi Gómez,Isaac Gómez Sánchez,61,67,110832,Granada,152,212,La Liga,152,Spain,2020-10-05,male_players.csv
+54f5bb59e61e7317595b11a8b4dc237c6740f87e,Thomas Fink,thomas fink,2,Attacking Midfield,23,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+44859429723c88f4a54772870a46962fe094c3fe,Jorge Hernandez,jorge hernandez,2,Attacking Midfield,21,1,2022-07-01,2022-07-01,matched_ambiguous_name,jorge hernandez,268859,23,9,J. Hernandez,Jorge Hernandez,60,69,110724,Mechelen,14,191,Jupiler Pro League,169,United States,2023-01-13,male_players.csv
+9fafa779a4fb8613dfae2c2634cc8d5a0452e4e1,Kevin Castañeda,kevin castaneda,2,Attacking Midfield,22,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+8ae9b50ac143b01eeafc107057f2f81ad7328bbc,Vladimir Laptev,vladimir laptev,2,Attacking Midfield,21,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+2bc546d756509de08241fd90daab5cd76f27e19a,Tiago Rodrigues da Costa,tiago rodrigues da costa,2,Attacking Midfield,19,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+d881f40656c9dec9fb17d29e8a03331d3d93090e,Denis Darmovzal,denis darmovzal,2,Attacking Midfield,21,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+9c35b02fd9a628e8d7d8569e2f675e74b1d4adde,Lucas Salinas,lucas salinas,2,Attacking Midfield,26,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+3142884fc8134606c38cfa1d3f2319e55e867b60,Valdeci,valdeci,2,Attacking Midfield,27,1,2022-07-01,2022-07-01,matched_unique_name,valdeci,254758,21,33,Valdeci,Valdeci Moreira da Silva,61,64,111006,Sportivo Luqueño,,,Primera División,22,Brazil,2021-03-19,male_players.csv
+de3d2fe40f534dcf8f4334dfaa340d1f090fe19a,Aleksandr Golubtsov,aleksandr golubtsov,10,Left Midfield,23,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+baadc9807a2cc005a182c6c6be2616bdc61fb8d9,André Dias,andre dias,14,Right Midfield,21,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+2706a157e467ba3efc596424ab819ceaf24e3763,Mike Frantz,mike frantz,3,Central Midfield,35,1,2022-07-01,2022-07-01,matched_unique_name,mike frantz,190671,23,9,M. Frantz,Mike Frantz,65,65,523,Saarbrücken,,,3. Liga,64,Germany,2023-01-13,male_players.csv
+90598a54e47e1be2f525866187c232db2ed20bf7,Jason Puncheon,jason puncheon,3,Central Midfield,36,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+6e25928f73b649414f2b582fdfa54fcde9f89f85,John Ogu,john ogu,3,Central Midfield,34,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+d59adcaf95197db27c139e25a40a675c9dd3d171,Sambou Yatabaré,sambou yatabare,3,Central Midfield,33,1,2022-07-01,2022-07-01,matched_unique_name,sambou yatabare,192611,23,9,S. Yatabaré,Sambou Yatabaré,63,63,226,Sochaux,60,253,Ligue 2,105,Mali,2023-01-13,male_players.csv
+1d31d7fac7f65efc11fc27cb80eb0a6281711372,Marlon Pack,marlon pack,3,Central Midfield,31,1,2022-07-01,2022-07-01,matched_unique_name,marlon pack,196916,23,9,M. Pack,Marlon Pack,68,68,1790,Portsmouth,,,League One,53,England,2023-01-13,male_players.csv
+50cc7cde047e10fd6cf5c9707a725f74e7529234,Steven Ugarkovic,steven ugarkovic,3,Central Midfield,27,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+17d540881e270d97099ebc26f0b0fef36586a708,Ilias Tselios,ilias tselios,3,Central Midfield,24,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+f303fb5290e58f4b4b98817ce420c9450533525e,Qëndrim Zyba,qendrim zyba,3,Central Midfield,21,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+8290ed670070a7ef72c1c285bfe1efb65df49a81,Iddriss Mohammed,iddriss mohammed,3,Central Midfield,21,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+a3f1495952d64e8aebf94dc97d05b648a81cac07,Titouan Thomas,titouan thomas,3,Central Midfield,20,1,2022-07-01,2022-07-01,matched_unique_name,titouan thomas,251439,23,1,T. Thomas,Titouan Thomas,61,76,10020,Estoril,,,Liga Portugal,60,France,2022-09-01,male_players.csv
+73584733e2869959c46e676579f651c121a7d378,Brady McGilloway,brady mcgilloway,3,Central Midfield,23,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+0cbd1fc18aa6effc1f2740ec964dc040c6feb03b,Savva Morozov,savva morozov,3,Central Midfield,19,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+6da94ab9179e3fedec773dd19324c5356b8a5ee3,Valentin Guillaume,valentin guillaume,3,Central Midfield,21,1,2022-07-01,2022-07-01,matched_unique_name,valentin guillaume,269749,23,9,V. Guillaume,Valentin Guillaume,60,68,112695,RFC Seraing,14,191,Jupiler Pro League,14,Belgium,2023-01-13,male_players.csv
+4fe610ea83fa6f8b90a4c6f5b639cf3e726c4e38,Ben Buley,ben buley,3,Central Midfield,19,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+150adb8357366191f172738defce45e86df32894,Milos Cvetkovic,milos cvetkovic,13,Right-Back,32,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+9a56a9f25772a7eefa3b43f67702e5e20d93b35f,Andrei Dumitras,andrei dumitras,13,Right-Back,34,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+fd55e349b71938a7114ac525230c568a6bb12f33,Antonio Marín,antonio marin,13,Right-Back,26,1,2022-07-01,2022-07-01,matched_ambiguous_name,antonio marin,244267,23,7,A. Marin,Antonio Marin,67,77,211,Dinamo Zagreb,,,1. HNL,42,Croatia,2022-12-06,male_players.csv
+4779c448e3931e91360e32868a12f30ef2e2c6a1,David Sauerland,david sauerland,13,Right-Back,25,1,2022-07-01,2022-07-01,matched_unique_name,david sauerland,223761,19,68,D. Sauerland,David Sauerland,62,70,110500,Eintracht Braunschweig,64,13,3. Liga,64,Germany,2019-06-24,male_players.csv
+cd8fdc6e2e8e84ef48385a2e93af40d340d9d2ff,Raphael Obermair,raphael obermair,13,Right-Back,26,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+07c13b922c3513c0029febc65431439dfc564178,Ivan Pranjic,ivan pranjic,13,Right-Back,22,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+07e09e86ca503ccd799bebeea55398ca433f8565,Roberto Villamarín,roberto villamarin,13,Right-Back,24,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+b16e4b5e7781ef44d8a9da9d644bf39ecda23d42,Ronny Labonne,ronny labonne,13,Right-Back,24,1,2022-07-01,2022-07-01,matched_unique_name,ronny labonne,270364,23,9,R. Labonne,Ronny Labonne,60,65,224,Nîmes,60,253,Ligue 2,60,France,2023-01-13,male_players.csv
+e8a39e57bcf5afcfe30a5ae39711007760654e4a,Marco Grilo,marco grilo,13,Right-Back,28,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+98339605a64c18ef73f953dda5854a4b83209c22,Jordan Serafimovski,jordan serafimovski,13,Right-Back,31,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+80cd62969bbb4e1a437851c864662de4c901c445,José Guevara,jose guevara,13,Right-Back,24,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+7af4404b7eca9f87f62fbb7c9ec895191b6bf40d,Bart van Hintum,bart van hintum,9,Left-Back,35,1,2022-07-01,2022-07-01,matched_unique_name,bart van hintum,209378,22,64,B. van Hintum,Bart van Hintum,70,70,1915,FC Groningen,119,136,Eredivisie,119,Netherlands,2022-07-18,male_players.csv
+191a11a1ac6f5030984bd74213bdf495647459fb,José Ríos Reina,jose rios reina,9,Left-Back,32,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+3c5ae47239f0d1d70692259755306bf413bafce6,Alexander Nandzik,alexander nandzik,9,Left-Back,29,1,2022-07-01,2022-07-01,matched_unique_name,alexander nandzik,238666,21,22,A. Nandzik,Alexander Nandzik,63,63,543,Jahn Regensburg,64,13,2. Bundesliga,64,Germany,2021-01-19,male_players.csv
+849e518421b93b06a567f34ee10d4db32b8a1dfa,Dean Jarvis,dean jarvis,9,Left-Back,30,1,2022-07-01,2022-07-01,matched_unique_name,dean jarvis,203192,20,20,D. Jarvis,Dean Jarvis,61,62,837,Dundalk,82,355,Premier Division,124,Northern Ireland,2020-01-06,male_players.csv
+27dbaa59de4a049566113c9e3f3b9b220d85342e,Uri Magbo,uri magbo,9,Left-Back,34,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+c3a65aae8b2a80a286696dce4c967d89150f16b4,Lucas Woudenberg,lucas woudenberg,9,Left-Back,28,1,2022-07-01,2022-07-01,matched_unique_name,lucas woudenberg,211195,22,64,L. Woudenberg,Lucas Woudenberg,66,66,1913,SC Heerenveen,119,136,Eredivisie,119,Netherlands,2022-07-18,male_players.csv
+ca1cc9f6a889fd490a05a4fb19a9a327cd7679e9,Sam Hart,sam hart,9,Left-Back,25,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+10f5fee428e67c43fab20477c504d9f94ff71be0,Víctor Mora,victor mora,9,Left-Back,22,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+f20a6144c0dbb19a1a8d32ab32af3f258a8e1287,Ronny Beroperay,ronny beroperay,9,Left-Back,30,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+c40309d432ed58206852f2e42fb49fced22e2702,Gonçalo Silva,goncalo silva,4,Centre-Back,31,1,2022-07-01,2022-07-01,matched_unique_name,goncalo silva,213203,22,64,Gonçalo Silva,Gonçalo Filipe Oliveira Silva,66,66,111088,Radomiak Radom,133,130,Ekstraklasa,134,Portugal,2022-07-18,male_players.csv
+a18b936ca401fe3f8e5195afd05157894724a49c,Kristi Marku,kristi marku,4,Centre-Back,27,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+6d4a79666bc8a70a2b2d6757a4f515ef75365b80,Ricardo Delgado,ricardo delgado,4,Centre-Back,28,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+398e823905cde72dcfc00e36371c0ca508727e7a,Mateusz Zyro,mateusz zyro,4,Centre-Back,23,1,2022-07-01,2022-07-01,matched_unique_name,mateusz zyro,244891,23,9,M. Żyro,Mateusz Żyro,63,68,301,Widzew Lodz,133,130,Ekstraklasa,133,Poland,2023-01-13,male_players.csv
+7436fb84d512e8ef199ccde4becbd74fedd55892,Ibrahim Dresevic,ibrahim dresevic,4,Centre-Back,25,1,2022-07-01,2022-07-01,matched_unique_name,ibrahim dresevic,235519,23,9,I. Drešević,Ibrahim Drešević,68,74,111117,Fatih Karagümrük,164,465,Super Lig,92,Kosovo,2023-01-13,male_players.csv
+eaad9312c7068a96aac906e43914f5f126fc3fb0,Aldin Skenderovic,aldin skenderovic,4,Centre-Back,25,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+71000a91a36060736f03a87627cb5c079726c249,Lars Bünning,lars bunning,4,Centre-Back,24,1,2022-07-01,2022-07-01,matched_unique_name,lars bunning,239634,23,9,L. Bünning,Lars Bünning,65,69,29,Kaiserslautern,64,13,2. Bundesliga,64,Germany,2023-01-13,male_players.csv
+0d86f71e53c5c03506d2f1eab6782cd7c43cf398,Elias Huber,elias huber,4,Centre-Back,19,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+0eadef623953224ea8cf8c4a082f8c38cd5199e0,Manuel Kober,manuel kober,4,Centre-Back,23,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+69cb4857485b77125928bef76ad52347bcb226ed,Fynn Kleeschätzky,fynn kleeschatzky,4,Centre-Back,21,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+d39269aa251b9289401f3320cb4887893f90ddc9,Roman Tkachuk,roman tkachuk,4,Centre-Back,19,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+984b437f4f37724c6b0b8b98421f7a6eacd1d5c6,Stephan Salger,stephan salger,4,Centre-Back,32,1,2022-07-01,2022-07-01,matched_unique_name,stephan salger,193097,22,64,S. Salger,Stephan Salger,66,66,33,1860 München,,,3. Liga,64,Germany,2022-07-18,male_players.csv
+927fa2457c3860c54d3135e6fa0959367cd725db,Petar Bosancic,petar bosancic,4,Centre-Back,26,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+bbf722c90ddc4b24b777e8644f3eff25759bef73,Saeed Al-Rubaie,saeed al rubaie,4,Centre-Back,28,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+233f9ab20290b042604f57b994ba4fb82c5f7e3d,Emanuel,emanuel,4,Centre-Back,22,1,2022-07-01,2022-07-01,matched_ambiguous_name,emanuel,160190,18,1,E,Emanuel,69,69,111328,Club Deportivo Palestino,,,Primera Division,31,Chile,2017-08-28,male_players.csv
+4565065441fd541555e348a8797f5145c5f1e270,Leonat Vitija,leonat vitija,4,Centre-Back,21,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+2244d69c17071e2e7cf5d50e0a1314358054b3f7,Elchin Mustafayev,elchin mustafayev,4,Centre-Back,21,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+ae4cde358752fb6e8d888e852e5121f14b9a2eb5,Jimmy Vásquez,jimmy vasquez,4,Centre-Back,27,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+8f767657e9227269f89e7aba3d43b96b76169fc5,Yacouba Seydi,yacouba seydi,4,Centre-Back,28,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+4cd5787a6fc95153c717b0ca294b4e2e7a946905,Ishak Belfodil,ishak belfodil,5,Centre-Forward,30,1,2022-08-21,2022-08-21,matched_unique_name,ishak belfodil,194728,22,64,I. Belfodil,Ishak Belfodil,75,75,166,Hertha BSC,64,84,Bundesliga,3,Algeria,2022-07-18,male_players.csv
+698b6bfa1bd39c04cf3846936eb7070a21b3ae6f,Alex Sobczyk,alex sobczyk,5,Centre-Forward,25,1,2022-08-19,2022-08-19,matched_unique_name,alex sobczyk,239873,22,64,A. Sobczyk,Alex Sobczyk,61,64,420,Górnik Zabrze,133,130,Ekstraklasa,9,Austria,2022-07-18,male_players.csv
+1cbfdc207e45d7953d71f9ed8522033aea29d152,Saleta Kordic,saleta kordic,5,Centre-Forward,29,1,2022-08-13,2022-08-13,unmatched,,,,,,,,,,,138,415,,,,,
+5e18f9da195d17633906a1d0fa3f6b8f8a0ef823,Ognjen Mudrinski,ognjen mudrinski,5,Centre-Forward,30,1,2022-08-01,2022-08-01,matched_unique_name,ognjen mudrinski,216688,20,26,O. Mudrinski,Ognjen Mudrinski,68,68,110745,Jagiellonia Białystok,,,Ekstraklasa,145,Serbia,2020-02-13,male_players.csv
+ff6ceb3c097d30c961d6236a292206cd5bdb2284,Denis Alibec,denis alibec,5,Centre-Forward,31,1,2022-07-14,2022-07-14,matched_unique_name,denis alibec,197971,23,9,D. Alibec,Denis Alibec,68,68,110075,SSC Farul,,,Liga 1,138,Romania,2023-01-13,male_players.csv
+1452966d3fe53c1ef36a5f27019e3c56c4c369a8,James Collins,james collins,5,Centre-Forward,31,1,2022-07-13,2022-07-13,matched_unique_name,james collins,19292,19,68,J. Collins,James Collins,72,72,94,Ipswich Town,53,217,Championship,175,Wales,2019-06-24,male_players.csv
+1475e974a9d2ee7c6dcf26ce34836b223e1f0895,Luvuyo Memela,luvuyo memela,11,Left Winger,34,1,2022-08-04,2022-08-04,unmatched,,,,,,,,,,,138,415,,,,,
+8a09368a8b54ccd1b0497be30ff4c715cd5cd383,Alexandru Dedov,alexandru dedov,11,Left Winger,32,1,2022-07-22,2022-07-22,unmatched,,,,,,,,,,,138,415,,,,,
+112c920bcef492a90f095d76f9a41b6bd97bef1b,Manoubi Haddad,manoubi haddad,11,Left Winger,25,1,2022-07-03,2022-07-03,matched_unique_name,manoubi haddad,262356,22,64,M. Haddad,Manoubi Haddad,63,66,112552,Quevilly Rouen,,,Ligue 2,163,Tunisia,2022-07-18,male_players.csv
+8096ab56cdb9083c5b4574b1362088019ada2971,Seifeddine Jerbi,seifeddine jerbi,15,Right Winger,31,1,2022-08-30,2022-08-30,unmatched,,,,,,,,,,,138,415,,,,,
+1ce2ce4395e22afb675c0c6e31fae9cadc6ede65,Clinton N'Jie,clinton n jie,15,Right Winger,28,1,2022-07-29,2022-07-29,unmatched,,,,,,,,,,,138,415,,,,,
+95fb4bdab73e87e38eb00f8e8812cc349ff0ad9e,Gustavo Marmentini,gustavo marmentini,15,Right Winger,28,1,2022-07-21,2022-07-21,unmatched,,,,,,,,,,,138,415,,,,,
+931dd38c3701f20e3578d4d32e7a41095e42369d,Rogério,rogerio,15,Right Winger,31,1,2022-07-19,2022-07-19,matched_ambiguous_name,rogerio,241629,23,9,Rogério,Rogério Oliveira da Silva,72,76,111974,Sassuolo,,,Serie A,22,Brazil,2023-01-13,male_players.csv
+ef37c10dcaceb5f4f6735f0942b782d95a283fbf,Mohamed Marouene Saidi,mohamed marouene saidi,13,Right-Back,28,1,2022-07-31,2022-07-31,unmatched,,,,,,,,,,,138,415,,,,,
+c74afb7ec0f286863cfc8f562eaaa6c3c0a16030,Mario Gaspar,mario gaspar,13,Right-Back,31,1,2022-07-29,2022-07-29,matched_unique_name,mario gaspar,192789,23,9,Mario Gaspar,Mario Gaspar Pérez Martínez,77,77,1795,Watford,,,Championship,152,Spain,2023-01-13,male_players.csv
+c09b5e91b123bf6a838f53ede6e64507efcd8911,Chris Gunter,chris gunter,13,Right-Back,32,1,2022-07-04,2022-07-04,unmatched,,,,,,,,,,,138,415,,,,,
+6a6d9a6a5d390c6f4330e31652d1e6ae2b4e40e2,Marcos Alonso,marcos alonso,9,Left-Back,31,1,2022-09-01,2022-09-01,matched_unique_name,marcos alonso,192638,23,9,Marcos Alonso,Marcos Alonso Mendoza,79,79,241,FC Barcelona,152,210,La Liga,152,Spain,2023-01-13,male_players.csv
+fcfb97257aed3cdd6a267b8b16259d62dd257ac9,Ivan Goranov,ivan goranov,9,Left-Back,30,1,2022-07-13,2022-07-13,matched_unique_name,ivan goranov,252739,21,64,I. Goranov,Ivan Goranov,66,66,670,Sporting Charleroi,,,Jupiler Pro League,23,Bulgaria,2021-09-25,male_players.csv
+41c19ab33d18ebbf4393833745bee29b91cc9010,Ulrik Jenssen,ulrik jenssen,4,Centre-Back,26,1,2022-08-19,2022-08-19,unmatched,,,,,,,,,,,138,415,,,,,
+859e3c1e483a53804cdf0ceb3f6423354e57a40a,Thameur Salhi,thameur salhi,4,Centre-Back,30,1,2022-08-16,2022-08-16,unmatched,,,,,,,,,,,138,415,,,,,
+3d0ebcf44b745173db6f0a8f07c775b6f302b8f3,Josema,josema,4,Centre-Back,26,1,2022-08-12,2022-08-12,matched_ambiguous_name,josema,236304,23,9,Josema,José Manuel Sánchez Guillén,68,73,100888,Leganés,152,212,La Liga 2,152,Spain,2023-01-13,male_players.csv
+0317f0a4dc78be4e3648e1ad40a0e59c1ae311ac,Luccas Claro,luccas claro,4,Centre-Back,30,1,2022-08-09,2022-08-09,matched_unique_name,luccas claro,203241,18,79,Luccas Claro,Luccas Claro dos Santos,72,75,101025,Gençlerbirliği,,,Super Lig,22,Brazil,2018-07-26,male_players.csv
+d5cc8faf0512c318c76c1b3f836aa0d617eeeffe,Petar Filipovic,petar filipovic,4,Centre-Back,31,1,2022-08-05,2022-08-05,matched_unique_name,petar filipovic,203026,22,64,P. Filipović,Petar Filipović,69,69,252,LASK Linz,,,Bundesliga,42,Croatia,2022-07-18,male_players.csv
+ef537018c3b6fce714bb8bbadc19bae8039a3dde,João Serrão,joao serrao,4,Centre-Back,22,1,2022-08-01,2022-08-01,matched_unique_name,joao serrao,252109,20,56,João Serrão,João Pedro Pereira Serrão,62,73,665,Vitória FC,,,Liga Portugal,134,Portugal,2020-08-12,male_players.csv
+81e61d3d0a55fcdc8f01da15a3036ce0da401851,Mauro dos Santos,mauro dos santos,4,Centre-Back,33,1,2022-07-30,2022-07-30,unmatched,,,,,,,,,,,138,415,,,,,
+e518b17e8f4d83b168626ed6da0bfa7481bb62b2,Kyriakos Mazoulouxis,kyriakos mazoulouxis,4,Centre-Back,25,1,2022-07-28,2022-07-28,unmatched,,,,,,,,,,,138,415,,,,,
+27d742c235cb132de96950cd39a6a8b3afd0b949,Spyros Risvanis,spyros risvanis,4,Centre-Back,28,1,2022-07-15,2022-07-15,matched_unique_name,spyros risvanis,220006,19,68,S. Risvanis,Spyros Risvanis,71,76,,,138,415,,67,Greece,2019-06-24,male_players.csv
+f25cfaaba5a9ab522afeae2c176380aae8a43de9,Diego Alende,diego alende,4,Centre-Back,24,1,2022-07-14,2022-07-14,matched_unique_name,diego alende,228707,23,9,Diego Alende,Diego Alende López,68,75,114554,FC Andorra,4,211,La Liga 2,152,Spain,2023-01-13,male_players.csv
+77380cd4cfaa10820fd1c603262b85f8f06f3428,Inácio Miguel,inacio miguel,4,Centre-Back,26,1,2022-07-14,2022-07-14,unmatched,,,,,,,,,,,138,415,,,,,
+13cd45e45157be5623a1a20914181101744c3830,Víctor Mongil,victor mongil,4,Centre-Back,29,1,2022-07-13,2022-07-13,matched_unique_name,victor mongil,205893,23,9,Víctor Mongil,Víctor Mongil Adeva,63,63,113299,Kerala Blasters,,,Super League,152,Spain,2023-01-13,male_players.csv
+ba4a998c61f4bdce56055b50fdb1edf1ecdd069b,Dominik Kovacic,dominik kovacic,4,Centre-Back,28,1,2022-07-12,2022-07-12,matched_unique_name,dominik kovacic,239586,22,64,D. Kovačić,Dominik Kovačić,65,67,115716,U Craiova 1948,,,Liga 1,42,Croatia,2022-07-18,male_players.csv
+587f1c04673cd3d2b5f23ca66188fd702e0fca8d,Joonas Tamm,joonas tamm,4,Centre-Back,30,1,2022-07-11,2022-07-11,matched_unique_name,joonas tamm,202904,23,9,J. Tamm,Joonas Tamm,66,66,100761,FCSB,138,470,Liga 1,55,Estonia,2023-01-13,male_players.csv
+8a8c661a8eea610426cab1b27d31749eafc95a58,Andreas Christensen,andreas christensen,4,Centre-Back,26,1,2022-07-04,2022-07-04,unmatched,,,,,,,,,,,138,415,,,,,
+772c3ff69a62858d13e217466b5fcc9993c792bf,Jordan O'Doherty,jordan o doherty,3,Central Midfield,24,1,2022-08-24,2022-08-24,matched_unique_name,jordan o doherty,236006,23,9,J. O'Doherty,Jordan O'Doherty,61,64,111629,East Bengal,,,Super League,8,Australia,2023-01-13,male_players.csv
+0396196b1e34ac71e6451d9c82c478aad6d49d6f,Fran Mérida,fran merida,3,Central Midfield,32,1,2022-08-05,2022-08-05,matched_unique_name,fran merida,183520,22,64,Fran Mérida,Francisco Mérida Pérez,74,74,452,Espanyol,,,La Liga,152,Spain,2022-07-18,male_players.csv
+c4bd7178897855aa5df7b60f0f41be6ab6649267,Peter Makrillos,peter makrillos,3,Central Midfield,26,1,2022-08-04,2022-08-04,matched_unique_name,peter makrillos,271341,23,9,P. Makrillos,Peter Makrillos,60,61,1596,GIF Sundsvall,155,51,Allsvenskan,8,Australia,2023-01-13,male_players.csv
+61e29bb2532c0c7ea1b94fefa242a3fb3b2bf0a3,Ángel Montoro,angel montoro,3,Central Midfield,34,1,2022-08-02,2022-08-02,unmatched,,,,,,,,,,,138,415,,,,,
+318298397707a2d95bb391453363405b8ef83958,Jorge Pombo,jorge pombo,2,Attacking Midfield,28,1,2022-09-01,2022-09-01,matched_unique_name,jorge pombo,228144,23,9,Jorge Pombo,Jorge Marcos Pombo Escobar,68,68,456,Racing Santander,152,212,La Liga 2,152,Spain,2023-01-13,male_players.csv
+358e3e6d92ae350a7efa947bf356eac2724ee77b,Tana,tana,2,Attacking Midfield,31,1,2022-08-13,2022-08-13,matched_unique_name,tana,219808,21,64,Tana,Pedro Tanausú Domínguez Placeres,67,67,1854,Albacete,,,La Liga 2,152,Spain,2021-09-25,male_players.csv
+a9ea39dbafbe2bf3c0351fad044f624a20feb6b0,Amine Louani,amine louani,7,Defensive Midfield,27,1,2022-09-01,2022-09-01,unmatched,,,,,,,,,,,138,415,,,,,
+e0bc65675bc4949b3cc6e618c83b6a3ae09bb5a7,Anderson Leite,anderson leite,7,Defensive Midfield,29,1,2022-07-29,2022-07-29,matched_unique_name,anderson leite,266287,22,64,Anderson Leite,Anderson Leite Morais,62,62,113134,Juárez,,,Liga MX,22,Brazil,2022-07-18,male_players.csv
+55c82d076762d261be2a6f6240227092c767aedf,Everton Luiz,everton luiz,7,Defensive Midfield,34,1,2022-07-10,2022-07-10,matched_unique_name,everton luiz,209737,22,63,Éverton Luiz,Éverton Luiz Guimarães Bilher,68,68,111065,Real Salt Lake,,,Major League Soccer,22,Brazil,2022-07-12,male_players.csv
+0feb339812d84f9f85943fae6532c0f917135d06,Víctor Ruiz,victor ruiz,10,Left Midfield,28,1,2022-08-02,2022-08-02,matched_ambiguous_name,victor ruiz,193469,23,9,Víctor Ruiz,Víctor Ruíz Torre,77,77,449,Real Betis,152,210,La Liga,152,Spain,2023-01-13,male_players.csv
+eee468a512be3a86c59fa1b04f83bc3b2de6b0e3,Alisson Farias,alisson farias,12,midfield,26,1,2022-07-18,2022-07-18,matched_unique_name,alisson farias,230663,17,77,Alisson Farias,Alisson Alves Farias,65,76,10020,Estoril,,,Liga Portugal,22,Brazil,2017-07-03,male_players.csv
+7c1084e4bdacecb52614498caacdc0a22324a009,Amin Javadi Moghadam,amin javadi moghadam,9,Left-Back,26,1,2022-08-27,2022-08-27,unmatched,,,,,,,,,,,138,415,,,,,
+96173d4a31715b1ce767fbd968fd17e82a5b733a,Polidoro Junior,polidoro junior,4,Centre-Back,25,1,2022-08-17,2022-08-17,unmatched,,,,,,,,,,,138,415,,,,,
+e8bd421a7a9e2cd33c3539cf28532db4d6699e91,Aleksandr Denisov,aleksandr denisov,4,Centre-Back,33,1,2022-08-02,2022-08-02,matched_unique_name,aleksandr denisov,187554,18,84,A. Denisov,Aleksandr Denisov,58,58,110756,Arsenal Tula,139,4,Premier League,139,Russia,2018-09-12,male_players.csv
+af428cdf37291fc7a5b681a8f2ba12d8421d91e3,Nikos Zografakis,nikos zografakis,11,Left Winger,23,1,2022-08-02,2022-08-02,matched_unique_name,nikos zografakis,260840,23,9,N. Zografakis,Nikos Zografakis,61,70,110501,Verl,,,3. Liga,67,Greece,2023-01-13,male_players.csv
+8f8346d5172be7d4df1250aa34b60f299f7ad5da,Ali Azadmanesh,ali azadmanesh,13,Right-Back,27,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+960e4cb86d762623caabba9454364c8d1317a670,Sergey Pushnyakov,sergey pushnyakov,2,Attacking Midfield,29,1,2022-07-30,2022-07-30,unmatched,,,,,,,,,,,138,415,,,,,
+8aaf7152d46f0f73cc1ce31e026af47571c1d396,Tarek Aggoun,tarek aggoun,4,Centre-Back,24,1,2022-07-24,2022-07-24,unmatched,,,,,,,,,,,138,415,,,,,
+87f2fe5a9847cff16c2cf323f543304959938d82,Bhaskar Roy,bhaskar roy,8,Goalkeeper,28,1,2022-07-22,2022-07-22,matched_unique_name,bhaskar roy,271012,23,9,B. Roy,Bhaskar Roy,52,54,113300,Mumbai City,,,Super League,78,India,2023-01-13,male_players.csv
+7166d7041d75c63b895251646d5baef5ab79088f,Aleksey Orlov,aleksey orlov,2,Attacking Midfield,25,1,2022-07-16,2022-07-16,unmatched,,,,,,,,,,,138,415,,,,,
+8d0347f12454436f7adb8cc94d50159bfda022b1,Quentin Bena,quentin bena,7,Defensive Midfield,24,1,2022-08-17,2022-08-17,matched_unique_name,quentin bena,236588,22,64,Q. Bena,Quentin Bena,60,65,1813,Niort,,,Ligue 2,60,France,2022-07-18,male_players.csv
+076e699c1680cbcc2f24c71b442f5ff6a590ca04,Rickson,rickson,7,Defensive Midfield,24,1,2022-08-15,2022-08-15,unmatched,,,,,,,,,,,138,415,,,,,
+7e44288c257e6d6730bbc41f11a2655376960c05,Kohei Kato,kohei kato,7,Defensive Midfield,33,1,2022-08-12,2022-08-12,unmatched,,,,,,,,,,,138,415,,,,,
+6bdb1b20ff37c5dc292e811597b2c2f45edd2e85,Andriy Mishchenko,andriy mishchenko,4,Centre-Back,31,1,2022-07-31,2022-07-31,unmatched,,,,,,,,,,,138,415,,,,,
+eebf77f71a74019a51c0cc963cec87f13dfc8174,Lukas Brambilla,lukas brambilla,2,Attacking Midfield,27,1,2022-07-09,2022-07-09,unmatched,,,,,,,,,,,138,415,,,,,
+60d5b68e81f77a5275dbdf753afb889a4f9df2b7,Luan,luan,4,Centre-Back,26,1,2022-07-04,2022-07-04,matched_ambiguous_name,luan,240044,22,64,Luan,Luan Leite da Silva,66,70,111821,Admira,,,Bundesliga,22,Brazil,2022-07-18,male_players.csv
+2ad584cb8da30e7ff0c464cfab51e08a21f1122b,Alen Melunovic,alen melunovic,5,Centre-Forward,32,1,2022-08-22,2022-08-22,unmatched,,,,,,,,,,,138,415,,,,,
+4823d82637fc54efabd2cfb6cd4a6df14d3d0df3,Mohammad Reza Soleimani,mohammad reza soleimani,5,Centre-Forward,27,1,2022-08-16,2022-08-16,unmatched,,,,,,,,,,,138,415,,,,,
+b8ee706a3e0689ea47dc7d35a4f26cd15f75a97a,Jhonnattann,jhonnattann,15,Right Winger,32,1,2022-07-23,2022-07-23,matched_unique_name,jhonnattann,237293,19,68,Jhonnattann,Jhonnattann Benites da Conceiçao,67,67,112990,Al Batin,,,Pro League,22,Brazil,2019-06-24,male_players.csv
+c775ee4331659b5a3c0d8a896e4ed5f30d9444b1,Apostolos Giannou,apostolos giannou,5,Centre-Forward,32,1,2022-07-08,2022-07-08,matched_unique_name,apostolos giannou,206435,23,9,A. Giannou,Apostolos Giannou,64,64,113299,Kerala Blasters,,,Super League,8,Australia,2023-01-13,male_players.csv
+e11abf8105f712ec4b78b4e17b6783fedc6912fc,Borja Valle,borja valle,11,Left Winger,29,1,2022-07-07,2022-07-07,matched_unique_name,borja valle,229037,23,9,Borja Valle,Borja Valle Balonga,67,67,100851,FC Cartagena,152,212,La Liga 2,152,Spain,2023-01-13,male_players.csv
+5aa734e781d4755c30490cc468bb25da7debadba,Jokin Ezkieta,jokin ezkieta,8,Goalkeeper,25,1,2022-07-05,2022-07-05,unmatched,,,,,,,,,,,138,415,,,,,
+6864528957e6be3d144068dad3a065f8cf09a925,Tristan Ciglar,tristan ciglar,7,Defensive Midfield,20,2,2022-07-04,2022-08-23,unmatched,,,,,,,,,,,138,415,,,,,
+ac729caefad9206752df569545d14ee528201a2b,Islamitdin Abdullaev,islamitdin abdullaev,9,Left-Back,22,1,2022-08-19,2022-08-19,unmatched,,,,,,,,,,,138,415,,,,,
+c13ab40453a73dfd3cc8961dc32fad7c440c66d0,Ardit Peposhi,ardit peposhi,9,Left-Back,28,1,2022-07-20,2022-07-20,unmatched,,,,,,,,,,,138,415,,,,,
+dd3c99def7a1b62718b397f5de3250b91807d60b,Borhan Abed,borhan abed,2,Attacking Midfield,23,1,2022-07-12,2022-07-12,unmatched,,,,,,,,,,,138,415,,,,,
+a1d303d1b50fad577d860740913f1f65b5d3259c,András Gosztonyi,andras gosztonyi,15,Right Winger,31,1,2022-07-05,2022-07-05,matched_unique_name,andras gosztonyi,197946,16,58,A. Gosztonyi,András Gosztonyi,64,67,111092,Śląsk Wrocław,,,Ekstraklasa,76,Hungary,2016-09-22,male_players.csv
+3d99d67a72ab758fcdfd6e87ca8184a19b67e9ad,Iván Martínez,ivan martinez,8,Goalkeeper,20,1,2022-09-01,2022-09-01,matched_unique_name,ivan martinez,245787,21,6,Iván Martínez,Iván Martínez Marqués,60,81,479,Osasuna,152,210,La Liga,152,Spain,2020-10-16,male_players.csv
+0bf98f8c7032f3ed23b6205dee0695e6fd6ae3c4,Albert Bruce,albert bruce,7,Defensive Midfield,28,1,2022-08-30,2022-08-30,unmatched,,,,,,,,,,,138,415,,,,,
+efb2e6a8f4079dbc953d75bb7e791dfbdcbfeefb,Youness Aouladzian,youness aouladzian,3,Central Midfield,24,1,2022-08-16,2022-08-16,unmatched,,,,,,,,,,,138,415,,,,,
+c7684dfe7c768f0b63767fafa9de98a4b2a7601b,Luiz Fernando,luiz fernando,7,Defensive Midfield,27,2,2022-07-05,2022-08-08,matched_ambiguous_name,luiz fernando,237529,20,61,Luiz Fernando,Luiz Fernando Ferreira Maximiniano,65,73,666,Desportivo Aves,,,Liga Portugal,22,Brazil,2020-09-23,male_players.csv
+c96085f018e521b83bc2063fd907d87697d620ab,Johan Rotsen,johan rotsen,3,Central Midfield,25,1,2022-08-02,2022-08-02,matched_unique_name,johan rotsen,262354,22,64,J. Rotsen,Johan Rotsen,56,61,112552,Quevilly Rouen,,,Ligue 2,60,France,2022-07-18,male_players.csv
+207a78d5f7041f338aedbcdb1019e74b2864e48f,Wai Wong,wai wong,2,Attacking Midfield,29,1,2022-07-19,2022-07-19,unmatched,,,,,,,,,,,138,415,,,,,
+3ef4a5e7eefd3e979322be30c25fe978a4793793,Nhlanhla Mgaga,nhlanhla mgaga,2,Attacking Midfield,26,1,2022-07-06,2022-07-06,unmatched,,,,,,,,,,,138,415,,,,,
+2e01e87a2cdd3fb234933b53261bc892d7f21250,Declan McDaid,declan mcdaid,10,Left Midfield,26,1,2022-07-02,2022-07-02,matched_unique_name,declan mcdaid,219925,23,9,D. McDaid,Declan McDaid,61,61,305,Bohemians,,,Premier Division,143,Scotland,2023-01-13,male_players.csv
+06cc9ed8522c5569272c4fef5d56d3f29f585f99,Souhail Yechou,souhail yechou,9,Left-Back,29,1,2022-07-16,2022-07-16,unmatched,,,,,,,,,,,138,415,,,,,
+87c3c7e0e87e3fd3eeb9d24d9ab9b8909599c37d,Brooklyn Ezeh,brooklyn ezeh,9,Left-Back,21,1,2022-07-05,2022-07-05,matched_unique_name,brooklyn ezeh,262117,23,9,B. Ezeh,Brooklyn Ezeh,63,75,492,Wehen Wiesbaden,64,37,3. Liga,64,Germany,2023-01-13,male_players.csv
+bad421ec028983cad4c75414fd1caf89c0ce1a91,Timur Rudoselskiy,timur rudoselskiy,4,Centre-Back,27,1,2022-07-28,2022-07-28,unmatched,,,,,,,,,,,138,415,,,,,
+66bbb548c78b3dd3aa3d3b3fe0e8212b10680c7c,Aaron Bastiaans,aaron bastiaans,11,Left Winger,20,1,2022-08-17,2022-08-17,matched_unique_name,aaron bastiaans,245352,21,25,A. Bastiaans,Aaron Bastiaans,59,74,100651,VVV-Venlo,119,202,Eredivisie,119,Netherlands,2021-01-29,male_players.csv
+8080e9ba12d89804348331b7f049b7e1d4ff24cc,Michalis Bastakos,michalis bastakos,5,Centre-Forward,26,1,2022-08-16,2022-08-16,unmatched,,,,,,,,,,,138,415,,,,,
+e088001644c6e0abf337726c47f4847996d613c8,Maciej Mas,maciej mas,5,Centre-Forward,21,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+29ad0193971534e8afd88cbca91772ffebbedef4,Xiaotian Wu,xiaotian wu,12,midfield,25,1,2022-08-30,2022-08-30,unmatched,,,,,,,,,,,138,415,,,,,
+6ec5a556555b3cea26a4b3ffd04c5166b3c7a914,Altrim Pajaziti,altrim pajaziti,11,Left Winger,22,1,2022-08-18,2022-08-18,unmatched,,,,,,,,,,,138,415,,,,,
+7818486ba55b179ae6a95a748de68755d965be2a,Batuhan Özden,batuhan ozden,14,Right Midfield,19,1,2022-08-07,2022-08-07,unmatched,,,,,,,,,,,138,415,,,,,
+bb66d5c7eb1d59fc669394a27a9bda382d8185c9,Andrey Minchev,andrey minchev,4,Centre-Back,23,1,2022-08-05,2022-08-05,unmatched,,,,,,,,,,,138,415,,,,,
+1c72b9ca5ebbe2a073b7e65706766180d58627c1,Yan Zhang,yan zhang,4,Centre-Back,25,1,2022-08-04,2022-08-04,unmatched,,,,,,,,,,,138,415,,,,,
+f576c980a93503a3a9e4a5b5acb4789d998822c4,Mihajlo Kosta,mihajlo kosta,15,Right Winger,21,1,2022-08-04,2022-08-04,unmatched,,,,,,,,,,,138,415,,,,,
+e4931a2af176959f2166febbf9c915e14341169e,Paul Nistor,paul nistor,3,Central Midfield,20,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+f8871c05f5702e4a2f7828b1b176da5291539970,Espanhol,espanhol,2,Attacking Midfield,24,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+14018a146d0405a1bbef09636cfe203be93b90c4,Alper Yusuf Günaydin,alper yusuf gunaydin,8,Goalkeeper,22,1,2022-07-31,2022-07-31,unmatched,,,,,,,,,,,138,415,,,,,
+346aa4252bf9b3e62e54d329ed622281baf3f97f,Aleksandar Ilic,aleksandar ilic,7,Defensive Midfield,20,1,2022-07-29,2022-07-29,unmatched,,,,,,,,,,,138,415,,,,,
+897ad073fd40935480529cefd0e1c162c29ef1a4,Djordje Mitic,djordje mitic,7,Defensive Midfield,19,1,2022-07-27,2022-07-27,unmatched,,,,,,,,,,,138,415,,,,,
+88cc08d4a915099b847297afa0a3fba956419250,Vukan Kovac,vukan kovac,3,Central Midfield,21,1,2022-07-26,2022-07-26,unmatched,,,,,,,,,,,138,415,,,,,
+52e57027ebe66a4aa0cf75abf44ddf9b48d6dcdc,Habibi Jusuf,habibi jusuf,5,Centre-Forward,23,1,2022-07-24,2022-07-24,unmatched,,,,,,,,,,,138,415,,,,,
+dbe3e1332a192d68cfbb634c679ef6c6fa2b4ed1,Lazar Djordjevic,lazar djordjevic,8,Goalkeeper,25,1,2022-07-21,2022-07-21,unmatched,,,,,,,,,,,138,415,,,,,
+8b22003a89e77ffab50da9150dd6ac73de929444,David Kecskes,david kecskes,5,Centre-Forward,18,1,2022-07-20,2022-07-20,unmatched,,,,,,,,,,,138,415,,,,,
+cea5e0973ec36ae3150fbbd39b4096461aef4781,Simone Guidi,simone guidi,8,Goalkeeper,22,1,2022-07-19,2022-07-19,unmatched,,,,,,,,,,,138,415,,,,,
+b3aa5f9eb6d1aa773f0f04781cc991a1ba15c72e,Dylan Burke,dylan burke,4,Centre-Back,25,1,2022-07-17,2022-07-17,unmatched,,,,,,,,,,,138,415,,,,,
+40d31627729514d9080110b1f7148d254a39259d,Sinisa Radoja,sinisa radoja,15,Right Winger,35,1,2022-08-12,2022-08-12,unmatched,,,,,,,,,,,138,415,,,,,
+109d8ffba3d131c596fc8a83a9c49ce3209ffa05,Dejan Banjac,dejan banjac,4,Centre-Back,20,1,2022-08-11,2022-08-11,unmatched,,,,,,,,,,,138,415,,,,,
+7a234caf70e5b4633ed11a0b768d6cee086dbf2f,Ignacio Martin Aldabe,ignacio martin aldabe,1,attack,22,1,2022-08-11,2022-08-11,unmatched,,,,,,,,,,,138,415,,,,,
+66bc2622361c0d8a71f8486f9d82eb1460364e37,Igor Roncevic,igor roncevic,8,Goalkeeper,18,1,2022-07-09,2022-07-09,unmatched,,,,,,,,,,,138,415,,,,,
+05726684bbd387449a49a1cf8eaf943e2baea62f,Pathomtat Sudprasert,pathomtat sudprasert,8,Goalkeeper,28,1,2022-07-08,2022-07-08,unmatched,,,,,,,,,,,138,415,,,,,
+4196e86b1c62a0f99e55c598a1cbff31d1bd25b2,Kurtulus Yurt,kurtulus yurt,8,Goalkeeper,31,1,2022-07-06,2022-07-06,unmatched,,,,,,,,,,,138,415,,,,,
+de70440adafa952f6116c654ecb4295a9d72ab9b,Tegar Pangestu,tegar pangestu,7,Defensive Midfield,29,1,2022-08-13,2022-08-13,unmatched,,,,,,,,,,,138,415,,,,,
+d389dddc72a4839a1da19c3e43e1f4b2a7125afe,Toni Tipuric,toni tipuric,7,Defensive Midfield,27,1,2022-08-10,2022-08-10,unmatched,,,,,,,,,,,138,415,,,,,
+fcceff6d2f2c3bbfa7ff0876976eb5c7f802bf2a,Nikolay Nikolov,nikolay nikolov,7,Defensive Midfield,27,1,2022-08-04,2022-08-04,unmatched,,,,,,,,,,,138,415,,,,,
+256187e1211cbfb0f611b598d9ecea702847f0a6,Song Guo,song guo,14,Right Midfield,29,1,2022-08-02,2022-08-02,unmatched,,,,,,,,,,,138,415,,,,,
+bf4ab1f109a180de8e2ff3ca41235924bc05d04f,Dejan Mojovic,dejan mojovic,7,Defensive Midfield,20,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+be1881a5c7e7e8c89dc41e607e180b25e6bef314,Sherzod Gulomzhonov,sherzod gulomzhonov,2,Attacking Midfield,21,1,2022-07-29,2022-07-29,unmatched,,,,,,,,,,,138,415,,,,,
+e08be97014395013374200f6e095185d665efcf1,Dimitrios Pantelidis,dimitrios pantelidis,7,Defensive Midfield,31,1,2022-07-22,2022-07-22,unmatched,,,,,,,,,,,138,415,,,,,
+0ef163bea71398ea733b83e732db6a2a5f62ec13,Danil Novikov,danil novikov,2,Attacking Midfield,19,1,2022-07-19,2022-07-19,unmatched,,,,,,,,,,,138,415,,,,,
+fd7f2332c437a7e539750d6ac862f6bc2a8d3da9,Iván Silva,ivan silva,7,Defensive Midfield,28,1,2022-07-09,2022-07-09,unmatched,,,,,,,,,,,138,415,,,,,
+594a78d4b19f21e54a607558ee011e04595383cc,Gil Hadad,gil hadad,1,attack,22,1,2022-08-08,2022-08-08,unmatched,,,,,,,,,,,138,415,,,,,
+4e5cbc38c28217d97431a3d3a0daee5f3c62f6a5,Erman Spahic,erman spahic,11,Left Winger,20,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+a719192a74e230c895cf1308150788e7b00b2680,Jeancarlo Vargas,jeancarlo vargas,11,Left Winger,24,1,2022-07-21,2022-07-21,unmatched,,,,,,,,,,,138,415,,,,,
+44e641ad067377de8f9785356d0630456328e442,Deyner Padilla,deyner padilla,1,attack,22,1,2022-07-12,2022-07-12,unmatched,,,,,,,,,,,138,415,,,,,
+e4e6db706a786095d371fdab4a193e9c5c1f1223,Camilo Mamani,camilo mamani,15,Right Winger,22,1,2022-07-09,2022-07-09,unmatched,,,,,,,,,,,138,415,,,,,
+f8e8dd7d6c7808b93488db128a84d1f8e2183b91,Pablo Gállego,pablo gallego,15,Right Winger,28,1,2022-07-08,2022-07-08,unmatched,,,,,,,,,,,138,415,,,,,
+82b216c545fb11401c0d499eeaeea15eb700658d,Seyed Sajjad Mousavi,seyed sajjad mousavi,15,Right Winger,28,1,2022-07-08,2022-07-08,unmatched,,,,,,,,,,,138,415,,,,,
+9477ace7a6953b5ee13d893b284165bb0baace75,Keita Alassane Razak,keita alassane razak,5,Centre-Forward,25,1,2022-08-19,2022-08-19,unmatched,,,,,,,,,,,138,415,,,,,
+87b7942b07abf6b16fd06c27914a49cad729eda3,Suan Lam Mang,suan lam mang,5,Centre-Forward,28,1,2022-08-08,2022-08-08,unmatched,,,,,,,,,,,138,415,,,,,
+f4360dfe802ad22d1bbaeb0af3a37d0a176f95ec,Davron Isokov,davron isokov,5,Centre-Forward,32,1,2022-07-29,2022-07-29,unmatched,,,,,,,,,,,138,415,,,,,
+649e7442496bcb9fdca4f5663b150047f4adcf65,Tom Sklovin,tom sklovin,13,Right-Back,21,1,2022-08-29,2022-08-29,unmatched,,,,,,,,,,,138,415,,,,,
+fb7fe00510c195e94235c511d791545db55eeba5,Anawin Jujeen,anawin jujeen,13,Right-Back,35,1,2022-08-09,2022-08-09,unmatched,,,,,,,,,,,138,415,,,,,
+2a27aaf92e470275ee66edd6309ecd65fadf837a,Zhengyang Fang,zhengyang fang,6,defence,28,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+55d02ffe0b5f39ea82412a2e66fa40b50b36e3c9,Matthew Bolaños,matthew bolanos,9,Left-Back,19,1,2022-07-04,2022-07-04,unmatched,,,,,,,,,,,138,415,,,,,
+7878531609c148b0d3292e5b7f22bbb06cd757b7,Andri Muliadi,andri muliadi,4,Centre-Back,29,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+725564523b9cd1ae2d199a24cec0274df8f3d9c6,Nikola Celebic,nikola celebic,4,Centre-Back,33,1,2022-07-25,2022-07-25,unmatched,,,,,,,,,,,138,415,,,,,
+71a2156f5ab7bda2732d3ec74f41d3b43c02e3da,Yannick Langesberg,yannick langesberg,4,Centre-Back,28,1,2022-07-18,2022-07-18,matched_unique_name,yannick langesberg,256272,21,64,Y. Langesberg,Yannick Langesberg,61,64,110501,Verl,,,3. Liga,64,Germany,2021-09-25,male_players.csv
+9da45603e738caef68326ef62a20c2002290199b,Jaroslav Tregler,jaroslav tregler,4,Centre-Back,26,1,2022-07-29,2022-07-29,unmatched,,,,,,,,,,,138,415,,,,,
+669d74cae6bd5bc8adc69e4f96344a729a58b6f6,Aleksa Jovanovic,aleksa jovanovic,4,Centre-Back,23,1,2022-07-26,2022-07-26,unmatched,,,,,,,,,,,138,415,,,,,
+accbbdfd86b5c90f5bb249a57d4530867bb7c524,Matej Mosko,matej mosko,4,Centre-Back,23,1,2022-07-15,2022-07-15,unmatched,,,,,,,,,,,138,415,,,,,
+de951f020ad2986fd1e84c19c8f118c77b5b910b,Frane Ikic,frane ikic,4,Centre-Back,28,1,2022-07-13,2022-07-13,unmatched,,,,,,,,,,,138,415,,,,,
+9e3f364486ab0f1daf8a07dc45fb7a8d8e08667e,Sílvio,silvio,13,Right-Back,34,1,2022-08-31,2022-08-31,matched_ambiguous_name,silvio,189530,22,64,Sílvio,Sílvio Manuel de Azevedo Ferreira Sá Pereira,67,67,1887,Vitória SC,,,Liga Portugal,134,Portugal,2022-07-18,male_players.csv
+ba3a29919997176c374aeaab4d2c2ecab558248b,Siphosakhe Ntiya-Ntiya,siphosakhe ntiya ntiya,9,Left-Back,25,1,2022-07-20,2022-07-20,matched_unique_name,siphosakhe ntiya ntiya,242023,22,64,S. Ntiya-Ntiya,Siphosakhe Ntiya-Ntiya,65,70,110929,Kaizer Chiefs,150,125,Premier League,150,South Africa,2022-07-18,male_players.csv
+fbff7582f4a4d10191a247a5e7aad97ce6398a57,Bruno Alves,bruno alves,11,Left Winger,29,1,2022-08-19,2022-08-19,matched_ambiguous_name,bruno alves,138110,21,64,Bruno Alves,Bruno Eduardo Regufe Alves,72,72,50,Parma,,,Serie A,134,Portugal,2021-09-25,male_players.csv
+590114bfda50edb2d10ab795ca45a7b55d3aac61,Stanislav Vavra,stanislav vavra,11,Left Winger,28,1,2022-07-18,2022-07-18,unmatched,,,,,,,,,,,138,415,,,,,
+7d3852f938556f33d97290c0fe35b249729d0dc0,Renato Matos,renato matos,11,Left Winger,26,1,2022-07-04,2022-07-04,unmatched,,,,,,,,,,,138,415,,,,,
+17c57ba17ebbb0a2734ecdc00e4e9a40a31da899,Petar Kunic,petar kunic,5,Centre-Forward,29,1,2022-08-16,2022-08-16,unmatched,,,,,,,,,,,138,415,,,,,
+e1a6b23d414ea77ad51c30011846d481afcf1c8a,Ibrahim Fofana,ibrahim fofana,5,Centre-Forward,27,1,2022-08-09,2022-08-09,unmatched,,,,,,,,,,,138,415,,,,,
+359c333358a953c7a09abc0c23b9623d822476b1,Nicolás Vélez,nicolas velez,5,Centre-Forward,32,1,2022-08-02,2022-08-02,unmatched,,,,,,,,,,,138,415,,,,,
+b29898627cb451984e99ead4ddef67a1df5acf87,István Kovács,istvan kovacs,2,Attacking Midfield,30,1,2022-08-04,2022-08-04,unmatched,,,,,,,,,,,138,415,,,,,
+40b9212b74dc6bad62fa41d03c632f13a3eb0153,Reza Dehghan,reza dehghan,7,Defensive Midfield,25,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+8e3f5c3b8f70ef275ae9aedd2d4a40ae21578896,Miguelete,miguelete,2,Attacking Midfield,21,1,2022-07-20,2022-07-20,unmatched,,,,,,,,,,,138,415,,,,,
+8b68a989f78022f7256b31e0b7a94a5595ca2cfc,Dani Ramos,dani ramos,4,Centre-Back,27,1,2022-07-05,2022-07-05,unmatched,,,,,,,,,,,138,415,,,,,
+00fd625ed091082c9f5ffdde124b9e405a75c0a3,Mahdi Zoabi,mahdi zoabi,8,Goalkeeper,27,1,2022-08-29,2022-08-29,unmatched,,,,,,,,,,,138,415,,,,,
+66c71d22a644034afb1d0224acc0ab889d2cb997,Dmitriy Kudinov,dmitriy kudinov,8,Goalkeeper,25,1,2022-08-05,2022-08-05,unmatched,,,,,,,,,,,138,415,,,,,
+29e5028c84b959e7265915b331daf5264f1cc2fb,Konstantinos Petrou,konstantinos petrou,8,Goalkeeper,24,1,2022-07-23,2022-07-23,unmatched,,,,,,,,,,,138,415,,,,,
+1c5f4b27579e2e3fd50ceb9d5556343284b5c432,Radu Mitu,radu mitu,8,Goalkeeper,27,1,2022-07-15,2022-07-15,unmatched,,,,,,,,,,,138,415,,,,,
+25467f835ef33f7196b2b7c93939a21bd2fe36d0,Khaled Takaji,khaled takaji,15,Right Winger,35,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+5cd3b4877d143c37f87c07929852b89bed21bfda,Sondre Stokke,sondre stokke,11,Left Winger,30,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+76e9c6a042b8d0a1de45b54916f104c7a149a049,Vasilios Efthymiou,vasilios efthymiou,15,Right Winger,23,1,2022-07-20,2022-07-20,unmatched,,,,,,,,,,,138,415,,,,,
+232075e1c8128dce5ec2bccdcd6d087828d3fcb8,Denys Oliynyk,denys oliynyk,11,Left Winger,35,1,2022-07-09,2022-07-09,matched_unique_name,denys oliynyk,200644,17,91,D. Oliynyk,Denys Oliynyk,70,70,110502,Darmstadt 98,64,13,Bundesliga,167,Ukraine,2017-08-24,male_players.csv
+cac091312edf7c8ba9b5c2e9a06baba262c5287b,Oto John,oto john,5,Centre-Forward,24,1,2022-08-09,2022-08-09,unmatched,,,,,,,,,,,138,415,,,,,
+98cdcdd5def2419c8478a6e82115bf6ee2c99e14,Sajjad Abdoei,sajjad abdoei,5,Centre-Forward,26,1,2022-07-15,2022-07-15,unmatched,,,,,,,,,,,138,415,,,,,
+63d56cfb8fdab24b7d453f8efdc88ad7d282fff9,Everardo Rose,everardo rose,5,Centre-Forward,22,1,2022-07-13,2022-07-13,unmatched,,,,,,,,,,,138,415,,,,,
+9748647ff9d1850639a95ebf568006a0d52ecebc,Jonathan McDonald,jonathan mcdonald,5,Centre-Forward,34,1,2022-07-04,2022-07-04,unmatched,,,,,,,,,,,138,415,,,,,
+e42526c4ca536fc65f15c7514a1f8c84951a2ba0,Relu,relu,3,Central Midfield,24,1,2022-08-25,2022-08-25,matched_unique_name,relu,248070,22,54,Relu,José María Relucio Gallego,62,71,1853,Levante,,,La Liga,152,Spain,2022-05-27,male_players.csv
+d0d0250a78c9b3d960b4d598b8bc026990bcb94b,Aleksey Tretyakov,aleksey tretyakov,7,Defensive Midfield,21,1,2022-07-22,2022-07-22,unmatched,,,,,,,,,,,138,415,,,,,
+c413ef7e1801f74f6bc37f627d17639be4c5bc82,Sekou Doumbia,sekou doumbia,3,Central Midfield,28,1,2022-07-21,2022-07-21,unmatched,,,,,,,,,,,138,415,,,,,
+577762d1a91518887c7e4bf43bae5f365f2b633d,Kamil Zakirov,kamil zakirov,3,Central Midfield,23,1,2022-07-20,2022-07-20,unmatched,,,,,,,,,,,138,415,,,,,
+e5b605a2c17749ce923b840a8ca9045f7bfa4a08,Augustine Okrah,augustine okrah,2,Attacking Midfield,28,1,2022-07-13,2022-07-13,matched_unique_name,augustine okrah,224780,15,14,A. Okrah,Augustine Okrah,58,70,711,Häcken,155,51,Allsvenskan,65,Ghana,2014-11-28,male_players.csv
+41de9e3dc77ecfbf5be90c178f86e4104d470856,Leon Sever,leon sever,3,Central Midfield,24,1,2022-07-03,2022-07-03,unmatched,,,,,,,,,,,138,415,,,,,
+79cbb3fc4c4adfb3b0ec0d1e319eec7f3c8c8699,Casper Gedsted,casper gedsted,13,Right-Back,20,1,2022-08-12,2022-08-12,matched_unique_name,casper gedsted,262960,22,64,C. Gedsted,Casper Gedsted,57,69,820,AaB,46,473,Superliga,46,Denmark,2022-07-18,male_players.csv
+f05cc79cd6ac6c6010bbf74d030d991eeb96b5f7,Imari Samuels,imari samuels,9,Left-Back,19,1,2022-08-05,2022-08-05,unmatched,,,,,,,,,,,138,415,,,,,
+78722b1260b803806075e80db72d6249a084a459,Long-Hin Tse,long hin tse,13,Right-Back,27,1,2022-07-19,2022-07-19,unmatched,,,,,,,,,,,138,415,,,,,
+8c092a544a33e70e8a81c4b636b40f2eaf3660e7,Simon Straudi,simon straudi,13,Right-Back,23,1,2022-07-07,2022-07-07,matched_unique_name,simon straudi,248823,23,9,S. Straudi,Simon Straudi,62,68,1787,Austria Klagenfurt,,,Bundesliga,84,Italy,2023-01-13,male_players.csv
+3984a472459b833977acc02e599be25d35d8cbb6,Rasoul Baharvand,rasoul baharvand,13,Right-Back,28,1,2022-07-06,2022-07-06,unmatched,,,,,,,,,,,138,415,,,,,
+b92f4c4ad605fc2a7b8547133a13323c87f28c3b,Aleksandr Novitski,aleksandr novitski,4,Centre-Back,32,1,2022-08-09,2022-08-09,unmatched,,,,,,,,,,,138,415,,,,,
+a79b5c9001bff922280c5bf829e42e52d3fda64b,Théo Barbet,theo barbet,4,Centre-Back,21,1,2022-08-04,2022-08-04,matched_unique_name,theo barbet,251957,22,1,T. Barbet,Théo Barbet,58,69,110569,Dijon FCO,60,253,Ligue 2,60,France,2021-08-16,male_players.csv
+53ffe0612ec17f0199006fb5c5522bbc47b8aa42,Maxime Wackers,maxime wackers,4,Centre-Back,24,1,2022-08-03,2022-08-03,unmatched,,,,,,,,,,,138,415,,,,,
+9e65cb5626c7bbbafdfce160194f41cfa55d5049,Dimitrios Klingopoulos,dimitrios klingopoulos,4,Centre-Back,24,1,2022-07-21,2022-07-21,unmatched,,,,,,,,,,,138,415,,,,,
+03f51ea810247fbf1cb111601e044c2233d02197,Benoît Poulain,benoit poulain,4,Centre-Back,34,1,2022-07-14,2022-07-14,unmatched,,,,,,,,,,,138,415,,,,,
+ac68e0bc922f67fe9be08c0e491134982b990f93,Igor Basic,igor basic,4,Centre-Back,25,1,2022-07-06,2022-07-06,unmatched,,,,,,,,,,,138,415,,,,,
+1ba7d4323e96eb2ea652b4f3bfe419eb3e95696e,Bence Jagodics,bence jagodics,4,Centre-Back,28,1,2022-07-04,2022-07-04,unmatched,,,,,,,,,,,138,415,,,,,
+690795e5dc72707d91d520e4190998b28627f935,Genís Soldevila,genis soldevila,15,Right Winger,35,1,2022-08-04,2022-08-04,unmatched,,,,,,,,,,,138,415,,,,,
+4febb988536d7029c70c473f02ce8f012b3f7b6e,Xiscu Martínez,xiscu martinez,11,Left Winger,27,1,2022-07-08,2022-07-08,matched_unique_name,xiscu martinez,231155,17,91,Xiscu Martínez,Francisco Martínez Anglada,66,72,244,Real Zaragoza,152,212,La Liga 2,152,Spain,2017-08-24,male_players.csv
+243727d126b2f56ac818ba30544b8eaf059ac851,Isma Armenteros,isma armenteros,4,Centre-Back,21,1,2022-07-28,2022-07-28,unmatched,,,,,,,,,,,138,415,,,,,
+7ddb788619d3663eae7dd2df5859c05b910001c1,Chun-Kiu To,chun kiu to,8,Goalkeeper,28,1,2022-08-19,2022-08-19,unmatched,,,,,,,,,,,138,415,,,,,
+603b57ba487e74396c8437bfc8afa871e3196c27,Danil Beltyukov,danil beltyukov,8,Goalkeeper,19,1,2022-07-24,2022-07-24,unmatched,,,,,,,,,,,138,415,,,,,
+761b531832127838bd39d8d979ad41766b612918,Dorian Salhi,dorian salhi,8,Goalkeeper,23,1,2022-07-20,2022-07-20,matched_unique_name,dorian salhi,256754,22,64,D. Salhi,Dorian Salhi,57,67,111276,Dunkerque,,,Ligue 2,60,France,2022-07-18,male_players.csv
+115de38b2e0a88e3775d31ed2245d96857b2fb8b,Dimitrios Kasotakis,dimitrios kasotakis,8,Goalkeeper,25,1,2022-07-12,2022-07-12,unmatched,,,,,,,,,,,138,415,,,,,
+6c7d01a9b1ffc152239af851e6c421724e6cf593,Paul Milde,paul milde,14,Right Midfield,27,1,2022-07-08,2022-07-08,matched_unique_name,paul milde,216249,20,61,P. Milde,Paul Milde,62,66,507,Chemnitzer FC,64,407,3. Liga,64,Germany,2020-09-23,male_players.csv
+9d6fc4d6d95c0b81f34ad167bffda95f5b895a67,Francisco Mwepu,francisco mwepu,2,Attacking Midfield,22,1,2022-08-30,2022-08-30,matched_unique_name,francisco mwepu,258509,22,54,F. Mwepu,Francisco Mwepu,59,68,209,Sturm Graz,9,83,Bundesliga,176,Zambia,2022-05-27,male_players.csv
+9c0777a99f961f642c8fbc54c33a45ca9562b1bb,Drasko Lolic,drasko lolic,3,Central Midfield,26,1,2022-08-05,2022-08-05,unmatched,,,,,,,,,,,138,415,,,,,
+49776f92554e92a1a9786075930ec63ca77b58eb,Willie Clemons,willie clemons,3,Central Midfield,27,1,2022-08-03,2022-08-03,unmatched,,,,,,,,,,,138,415,,,,,
+83afda3ef826ec2ea50b4de8cad3311e0874b78e,Mete Karahan,mete karahan,7,Defensive Midfield,24,1,2022-09-01,2022-09-01,unmatched,,,,,,,,,,,138,415,,,,,
+6a98a16c71cec9bdf161090b39025bd457ebe819,Yusuf Touré,yusuf toure,7,Defensive Midfield,22,2,2022-07-12,2022-08-31,unmatched,,,,,,,,,,,138,415,,,,,
+2381b74f725052ca5272497b15c66de0426809b2,Tin Zavalic,tin zavalic,7,Defensive Midfield,21,1,2022-08-24,2022-08-24,unmatched,,,,,,,,,,,138,415,,,,,
+938531f978b85fa1c739565d58d4ca08c0f05f67,Michal Pawlik,michal pawlik,7,Defensive Midfield,27,1,2022-07-26,2022-07-26,unmatched,,,,,,,,,,,138,415,,,,,
+dd102dd5c8f12d7a12f07ff1ae5b3b781c054e7b,Ntshuxeko Ndlovu,ntshuxeko ndlovu,7,Defensive Midfield,28,1,2022-07-15,2022-07-15,unmatched,,,,,,,,,,,138,415,,,,,
+2a2e04cf19ce4723bbf3f499e1ee7faeae26a5d8,Robin Szarka,robin szarka,7,Defensive Midfield,30,1,2022-07-13,2022-07-13,unmatched,,,,,,,,,,,138,415,,,,,
+a677d16fb71617ae93ac45e0123514d24497b560,Filip Kis,filip kis,13,Right-Back,28,1,2022-07-28,2022-07-28,unmatched,,,,,,,,,,,138,415,,,,,
+1df869dc2a06034ea5d8cf79df40c9158e866241,Mohmmad Pourmohammad,mohmmad pourmohammad,13,Right-Back,35,1,2022-07-26,2022-07-26,unmatched,,,,,,,,,,,138,415,,,,,
+a06f75ce0e000c9314c2a4a2b6cb9192deab48be,Hugo Morales,hugo morales,13,Right-Back,20,1,2022-07-22,2022-07-22,matched_unique_name,hugo morales,268686,23,2,H. Morales,Hugo Morales,55,65,110321,Pau,,,Ligue 2,60,France,2022-09-26,male_players.csv
+e56f0156f7e4fd9f2e159d7076fb195d034af961,Luka Asatiani,luka asatiani,4,Centre-Back,23,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+aad42e10f630fdc60148b5befc2ed77bc8d2e149,Óscar Carniello,oscar carniello,4,Centre-Back,33,1,2022-07-02,2022-07-02,unmatched,,,,,,,,,,,138,415,,,,,
+f9753bb71bd492e516661c2ba6b34a69f1cd96ad,Mike Owusu,mike owusu,15,Right Winger,27,1,2022-07-18,2022-07-18,matched_unique_name,mike owusu,239174,19,68,M. Owusu,Mike Owusu,62,68,111379,Sonnenhof Großaspach,64,330,3. Liga,64,Germany,2019-06-24,male_players.csv
+f72da6114de8ad57e0700a7f22d5c32e8b3e54e6,Morteza Negahdari,morteza negahdari,15,Right Winger,27,1,2022-07-17,2022-07-17,unmatched,,,,,,,,,,,138,415,,,,,
+b3ae73d65d131433693e932ba9e914ef8203dca1,Sofiane Barroug,sofiane barroug,1,attack,20,1,2022-07-04,2022-07-04,unmatched,,,,,,,,,,,138,415,,,,,
+5b97f77544b9fa8d83c8222d05e43cddd1842a8e,Aria Barzegar,aria barzegar,5,Centre-Forward,19,1,2022-08-19,2022-08-19,unmatched,,,,,,,,,,,138,415,,,,,
+2cceb1a5606394d222fc6ff1a230cfabd6aeb4eb,Walter Vaz,walter vaz,5,Centre-Forward,32,1,2022-08-15,2022-08-15,unmatched,,,,,,,,,,,138,415,,,,,
+774483878d713dee5c13ee9cbbb1f095bf3023c8,Nenad Zivkovic,nenad zivkovic,5,Centre-Forward,20,1,2022-07-29,2022-07-29,matched_unique_name,nenad zivkovic,257702,21,4,N. Zivkovic,Nenad Zivkovic,51,69,897,Luzern,156,461,Super League,156,Switzerland,2020-10-05,male_players.csv
+d8c35e4f54d3a60397b4dd3bef0cc3331aac9a3d,Miguel García,miguel garcia,11,Left Winger,25,1,2022-08-07,2022-08-07,matched_unique_name,miguel garcia,204958,18,68,Miguel Garcia,Miguel Alberto García Díaz,67,68,110854,Reus Deportiu,,,La Liga 2,152,Spain,2018-05-14,male_players.csv
+bb026f453ca062f9853db0cbc68a954c19956e1d,Mboup Saha,mboup saha,5,Centre-Forward,29,1,2022-08-05,2022-08-05,unmatched,,,,,,,,,,,138,415,,,,,
+01d2a01d8f0909ec1e0c424758e9f5c7d3a59dd2,Sergi Fernández,sergi fernandez,3,Central Midfield,23,1,2022-07-14,2022-07-14,unmatched,,,,,,,,,,,138,415,,,,,
+25a46abedb0ce06e1dbc457b27d559a39c7359ea,Curro Rivelott,curro rivelott,3,Central Midfield,22,1,2022-07-11,2022-07-11,unmatched,,,,,,,,,,,138,415,,,,,
+a37c005b291e70e8a5419bc5e3ef8e22e4b07e54,Rubén Castro,ruben castro,5,Centre-Forward,41,1,2022-07-06,2022-07-06,matched_unique_name,ruben castro,115909,23,9,Rubén Castro,Rubén Castro Martín,71,71,573,Málaga,152,212,La Liga 2,152,Spain,2023-01-13,male_players.csv
+863f712d58628a8588adaf5b200b462d2638e302,Mohammadamin Aliabadi,mohammadamin aliabadi,8,Goalkeeper,22,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+e2a5e68dc25c540c23d067c4c043e3e70332d9fa,Martin Repisky,martin repisky,8,Goalkeeper,21,1,2022-07-22,2022-07-22,unmatched,,,,,,,,,,,138,415,,,,,
+d8596e485446782191ea7c9947f5cd6451c09c7c,Leonardo Rustemi,leonardo rustemi,8,Goalkeeper,18,1,2022-07-07,2022-07-07,unmatched,,,,,,,,,,,138,415,,,,,
+32e1796080c7ce00be8e21efc65178a1619c73c8,Sergio Gucciardo,sergio gucciardo,11,Left Winger,23,1,2022-08-10,2022-08-10,unmatched,,,,,,,,,,,138,415,,,,,
+57206d49e09bc3ea749aff0e61c88b685fe80970,Alexandros Abdel Rahim,alexandros abdel rahim,15,Right Winger,29,1,2022-07-19,2022-07-19,unmatched,,,,,,,,,,,138,415,,,,,
+fbe591b09ee441d8b0d6b0d6f5b572d8ee89c6a4,Alexandre Ippolito,alexandre ippolito,11,Left Winger,23,1,2022-07-18,2022-07-18,matched_unique_name,alexandre ippolito,248387,20,61,A. Ippolito,Alexandre Ippolito,59,68,111560,Royal Excel Mouscron,,,Jupiler Pro League,14,Belgium,2020-09-23,male_players.csv
+ae5944f35f73aafb6d83e00cd17b74d12d43b571,Miguel Ángel Ballesta,miguel angel ballesta,5,Centre-Forward,26,1,2022-08-30,2022-08-30,unmatched,,,,,,,,,,,138,415,,,,,
+8df168d7ca91d690e254239e434c6947aba830e5,Szymon Emche,szymon emche,5,Centre-Forward,21,1,2022-08-04,2022-08-04,unmatched,,,,,,,,,,,138,415,,,,,
+92f85ff964eec505e8e1ad38d6b2834bb7c7a25b,CJ Fodrey,cj fodrey,5,Centre-Forward,18,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+4c7ed0b3bbfd244daee98ba50dd38f61a21fdab0,Vladislav Feshchenko,vladislav feshchenko,5,Centre-Forward,18,1,2022-07-21,2022-07-21,unmatched,,,,,,,,,,,138,415,,,,,
+09c34691ac4c204f0df76579881103f4c1e20440,Víctor Poveda,victor poveda,9,Left-Back,22,2,2022-07-20,2022-08-25,unmatched,,,,,,,,,,,138,415,,,,,
+246989f530e497019e6adf7257d4a52fcf4d46b6,Anis Mujiono,anis mujiono,9,Left-Back,33,1,2022-07-27,2022-07-27,unmatched,,,,,,,,,,,138,415,,,,,
+b22dc25f3bdcc3588974d6b4815ef796f5d18549,Fatih Aydin,fatih aydin,13,Right-Back,26,1,2022-09-01,2022-09-01,unmatched,,,,,,,,,,,138,415,,,,,
+927c97702e8454ecf5450e8f1d2eff8539030ebb,Diego Corvalan,diego corvalan,13,Right-Back,20,2,2022-07-16,2022-08-19,unmatched,,,,,,,,,,,138,415,,,,,
+1260a0128a946356b29dd1d76c23f55627413d3c,Zétény Hosszú,zeteny hosszu,13,Right-Back,20,1,2022-07-25,2022-07-25,unmatched,,,,,,,,,,,138,415,,,,,
+845ac96f5f6f5758d6f8f298993c567f8e4a90bf,Amir Mohammad Zali,amir mohammad zali,13,Right-Back,25,1,2022-07-25,2022-07-25,unmatched,,,,,,,,,,,138,415,,,,,
+3131a27f3a7cc36df4d852804b8effdb25c91ae1,Lironthung Lotha,lironthung lotha,13,Right-Back,23,1,2022-07-12,2022-07-12,unmatched,,,,,,,,,,,138,415,,,,,
+6598e2d2f97553d64af29db27d2adbe2a99f852f,Nemanja Lekanic,nemanja lekanic,13,Right-Back,32,1,2022-07-02,2022-07-02,unmatched,,,,,,,,,,,138,415,,,,,
+a92cab37b6bd392cce902374c05ab3476ae28d04,Sinisa Dujakovic,sinisa dujakovic,13,Right-Back,30,1,2022-07-02,2022-07-02,unmatched,,,,,,,,,,,138,415,,,,,
+c478dd4417b1085b019266abedfe3d63dda79a46,Natthanon Charoensingkeewan,natthanon charoensingkeewan,6,defence,22,1,2022-08-27,2022-08-27,unmatched,,,,,,,,,,,138,415,,,,,
+590ae818cd5251a67c9dd55cc85690b7fb88423a,Amar Skrijelj,amar skrijelj,4,Centre-Back,20,1,2022-08-20,2022-08-20,unmatched,,,,,,,,,,,138,415,,,,,
+b6792e7f17c8243ae4148baa1d93d8b91a8759b0,Nikola Prebiracevic,nikola prebiracevic,4,Centre-Back,35,1,2022-08-03,2022-08-03,unmatched,,,,,,,,,,,138,415,,,,,
+b13cf07f86c70b503fc59e758ecf607fc6fa3ff5,Ermin Alic,ermin alic,4,Centre-Back,30,1,2022-07-17,2022-07-17,matched_unique_name,ermin alic,219973,15,59,E. Alic,Ermin Alić,63,68,483,Villarreal,152,210,La Liga,113,Montenegro,2015-09-10,male_players.csv
+00f9c231cb1160d7bdc8cc8bcd2eb55dd947bcfa,Ognjen Ristanovic,ognjen ristanovic,2,Attacking Midfield,20,1,2022-07-06,2022-07-06,unmatched,,,,,,,,,,,138,415,,,,,
+3419c0dc0e53d88f0b003952cbb27bdbfdc9bfa1,Shahin Mohammadi,shahin mohammadi,7,Defensive Midfield,27,1,2022-08-20,2022-08-20,unmatched,,,,,,,,,,,138,415,,,,,
+fdfcd71c8ab2d3cd3a22a243a92a688b48740f2f,Flavien Kongoza,flavien kongoza,7,Defensive Midfield,25,1,2022-08-19,2022-08-19,unmatched,,,,,,,,,,,138,415,,,,,
+1286c8528f50563290e6d076ae58da07c3e901d5,Josip Santic,josip santic,7,Defensive Midfield,28,1,2022-08-12,2022-08-12,unmatched,,,,,,,,,,,138,415,,,,,
+8b3ffb82abab628112ae1056b709b1cbceed10a1,Filip Stanisavljevic,filip stanisavljevic,7,Defensive Midfield,35,1,2022-07-05,2022-07-05,unmatched,,,,,,,,,,,138,415,,,,,
+8c89f0b69f4da52f639fb6bf6a5b69264e9912d5,Veljko Radenovic,veljko radenovic,12,midfield,20,1,2022-08-08,2022-08-08,unmatched,,,,,,,,,,,138,415,,,,,
+f5f4b11b5cdd062e54770e305f8d9c89bc54e6cf,Aris Triantafillidis,aris triantafillidis,10,Left Midfield,18,1,2022-07-12,2022-07-12,unmatched,,,,,,,,,,,138,415,,,,,
+e827a94b44610260e94a5c0e6e34bdabd096ffe1,Ilyess Jeridi,ilyess jeridi,3,Central Midfield,25,1,2022-08-31,2022-08-31,unmatched,,,,,,,,,,,138,415,,,,,
+5a2286ff24796ce0e36e4ba5a5a436a0235b4329,Vitaliy Savoshko,vitaliy savoshko,3,Central Midfield,21,1,2022-07-30,2022-07-30,unmatched,,,,,,,,,,,138,415,,,,,
+830a34ff27ef0878d72f66ac06fbb80fd9139d8b,Gan Kleabphueng,gan kleabphueng,3,Central Midfield,28,1,2022-07-27,2022-07-27,unmatched,,,,,,,,,,,138,415,,,,,
+43d6a420db365f405cf2ab9d1c03614660932a09,Blagota Markovic,blagota markovic,3,Central Midfield,20,1,2022-07-21,2022-07-21,unmatched,,,,,,,,,,,138,415,,,,,
+72784a260753d24ebe089291809a93954f46d881,José Ángel,jose angel,3,Central Midfield,37,1,2022-07-19,2022-07-19,matched_ambiguous_name,jose angel,203733,23,9,José Ángel,José Ángel Jurado de la Torre,66,66,260,Tenerife,152,212,La Liga 2,152,Spain,2023-01-13,male_players.csv
+317ce4c8b0bc8432a6e367dbe76f82d6fe0cdb78,Kevin Larsson,kevin larsson,15,Right Winger,20,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+a5bfa15d7142a6b5f785cc6b8d6c3f5b93abf104,Ovidiu Rasoveanu,ovidiu rasoveanu,15,Right Winger,20,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+695603d7d580ec0d5d0e646332fdd0db8c4153d3,Georgios Niklitsiotis,georgios niklitsiotis,11,Left Winger,31,1,2022-08-03,2022-08-03,unmatched,,,,,,,,,,,138,415,,,,,
+2ad6af7e2dbd7c380fe9b851a406cb703a014eda,Danila Yashchuk,danila yashchuk,11,Left Winger,27,1,2022-07-15,2022-07-15,matched_unique_name,danila yashchuk,211307,17,31,D. Yaschuk,Danila Yashchuk,57,65,100769,Zenit,139,367,Premier League,139,Russia,2017-01-23,male_players.csv
+4e02cd5d15a4ec6fed67122c46dba4df77db9335,Jason Ejesieme,jason ejesieme,11,Left Winger,20,1,2022-07-14,2022-07-14,unmatched,,,,,,,,,,,138,415,,,,,
+7b59dbbfef4b8ec7315ba5385fd26ceb119ca64c,Filip Vuic,filip vuic,1,attack,20,1,2022-08-17,2022-08-17,unmatched,,,,,,,,,,,138,415,,,,,
+e596c1058002f659b0df9f311898b4362ad964d2,Stefan Bozic,stefan bozic,16,Second Striker,19,1,2022-08-04,2022-08-04,unmatched,,,,,,,,,,,138,415,,,,,
+ede6640cdcc707c9b89538a03b37c91f92d7339f,Eskild Dall,eskild dall,5,Centre-Forward,19,1,2022-09-01,2022-09-01,matched_unique_name,eskild dall,266763,22,64,E. Dall,Eskild Dall,61,77,271,AGF,46,473,Superliga,46,Denmark,2022-07-18,male_players.csv
+6f7c9cca49d7540f09656cde882dd1114e7528a3,Rober,rober,5,Centre-Forward,29,1,2022-09-01,2022-09-01,matched_ambiguous_name,rober,213063,23,9,Róber,Roberto Suárez Pier,70,73,1853,Levante,,,La Liga 2,152,Spain,2023-01-13,male_players.csv
+de5a2e547577d45a070f8263fe4aecc0e48fa23a,Georgios Katseris,georgios katseris,5,Centre-Forward,22,1,2022-08-13,2022-08-13,unmatched,,,,,,,,,,,138,415,,,,,
+aa0c3327891c8d9c306cbd2531508fec98842c7d,Eric Fedeli,eric fedeli,5,Centre-Forward,30,1,2022-08-06,2022-08-06,unmatched,,,,,,,,,,,138,415,,,,,
+5bc4e1348e5e778f6daeff6447904fbcd976c0de,Rendy Kakasih,rendy kakasih,5,Centre-Forward,28,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+13a13a688ba26c97513f0344857164eb5ce62ee1,Tomas Kepl,tomas kepl,5,Centre-Forward,22,1,2022-07-10,2022-07-10,unmatched,,,,,,,,,,,138,415,,,,,
+dbeca4ff217ff0e3a410d8a3d0d37a6daa15207b,Mateja Bajunovic,mateja bajunovic,3,Central Midfield,20,1,2022-08-05,2022-08-05,unmatched,,,,,,,,,,,138,415,,,,,
+6ac19d59adf58389e57746f72a0b019728ea0623,Alireza Savari,alireza savari,3,Central Midfield,21,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+78da28c1be17387656bab0fa7daedd7f2f192e74,Stefan Denic,stefan denic,2,Attacking Midfield,22,1,2022-07-14,2022-07-14,unmatched,,,,,,,,,,,138,415,,,,,
+1b9de8efd1339896428015c523473c5b5df05673,Frederik Trümner,frederik trumner,7,Defensive Midfield,21,1,2022-07-29,2022-07-29,unmatched,,,,,,,,,,,138,415,,,,,
+0c76a0c9b331018e973f2406ea764e52fc4d7543,Dusan Ristovic,dusan ristovic,7,Defensive Midfield,22,1,2022-07-07,2022-07-07,unmatched,,,,,,,,,,,138,415,,,,,
+568bd06228cc4b2b9be3bad99dde099b19b00cee,Nikita Polshchikov,nikita polshchikov,7,Defensive Midfield,20,1,2022-07-05,2022-07-05,unmatched,,,,,,,,,,,138,415,,,,,
+8c13bab84c33d271ad18b7b5d5ae17014d9407fc,Vladislav Abramov,vladislav abramov,10,Left Midfield,20,1,2022-07-07,2022-07-07,unmatched,,,,,,,,,,,138,415,,,,,
+b02ea80b09b03d5c8fc824c8cf349e32bdd2d735,Sirimongkhon Jitbanjong,sirimongkhon jitbanjong,14,Right Midfield,24,1,2022-07-04,2022-07-04,unmatched,,,,,,,,,,,138,415,,,,,
+da63933058480686ae5e85825ef3cf34f8b8deee,Luka Steko,luka steko,8,Goalkeeper,19,1,2022-08-22,2022-08-22,unmatched,,,,,,,,,,,138,415,,,,,
+aa6e4c2ee7e67d006ea893ab8877639f23da44d1,Maksim Vysotskiy,maksim vysotskiy,8,Goalkeeper,27,1,2022-08-13,2022-08-13,unmatched,,,,,,,,,,,138,415,,,,,
+1dd8988173ad219502e942f6d3be442733e5a282,Roman Zhmurko,roman zhmurko,8,Goalkeeper,25,1,2022-08-11,2022-08-11,unmatched,,,,,,,,,,,138,415,,,,,
+1ec62871909c42dbeee3d1c7b1e4367fc78436d7,Jonas Brendieck,jonas brendieck,8,Goalkeeper,23,1,2022-08-04,2022-08-04,matched_unique_name,jonas brendieck,244355,21,64,J. Brendieck,Jonas Brendieck,56,65,1825,MSV Duisburg,64,37,3. Liga,64,Germany,2021-09-25,male_players.csv
+ad17899ec29424f21b7d52e586376399dce0688e,Marcos Zappacosta,marcos zappacosta,8,Goalkeeper,27,1,2022-07-11,2022-07-11,unmatched,,,,,,,,,,,138,415,,,,,
+d17bd5c95856cc369575ada502ca10e0b2dccf90,Jetjinn Sriprach,jetjinn sriprach,9,Left-Back,30,1,2022-07-08,2022-07-08,unmatched,,,,,,,,,,,138,415,,,,,
+a7e9bbd2256d4d62cfe3d0a73dadc06fbd52343e,Sainan Zhan,sainan zhan,6,defence,21,1,2022-08-24,2022-08-24,unmatched,,,,,,,,,,,138,415,,,,,
+e6d0c9be28b298b60cd7346e7caa4b2f4d87d2ed,Binu Bairam,binu bairam,13,Right-Back,21,1,2022-08-17,2022-08-17,unmatched,,,,,,,,,,,138,415,,,,,
+f27f6f6347dc4c5238412abe603b382ca06b6932,Nontawat Rakaok,nontawat rakaok,13,Right-Back,25,1,2022-08-09,2022-08-09,unmatched,,,,,,,,,,,138,415,,,,,
+423c0422c5d0a73b91d3ec4a897e8d3826a32575,Yuri Kudrevatyi,yuri kudrevatyi,13,Right-Back,19,1,2022-07-15,2022-07-15,unmatched,,,,,,,,,,,138,415,,,,,
+c573eb3f7b2a87d00f3fae1aadbb69afc49261a8,Maël Riberon,mael riberon,4,Centre-Back,22,1,2022-08-24,2022-08-24,unmatched,,,,,,,,,,,138,415,,,,,
+a5351a75158ec8979f395d0e11530432e6f53793,Veton Kabashi,veton kabashi,4,Centre-Back,29,1,2022-08-13,2022-08-13,unmatched,,,,,,,,,,,138,415,,,,,
+820b5237608cc04f71779889cc081fbedd68104b,Xiang Yu,xiang yu,4,Centre-Back,31,1,2022-08-04,2022-08-04,unmatched,,,,,,,,,,,138,415,,,,,
+7f9bebf67e6b6a82baa2e30ef5fe08c5bf05200b,Gustavo Sant'Ana,gustavo sant ana,4,Centre-Back,27,1,2022-07-21,2022-07-21,unmatched,,,,,,,,,,,138,415,,,,,
+a6bf13fbba243b53f7dc57e892ab9880fe742200,Sergiu Bactar,sergiu bactar,4,Centre-Back,26,1,2022-07-15,2022-07-15,unmatched,,,,,,,,,,,138,415,,,,,
+17f4d27a364c322a3872fdba43bd7c40fdccbf85,Sergio Díaz,sergio diaz,9,Left-Back,31,1,2022-07-08,2022-07-08,matched_ambiguous_name,sergio diaz,263154,23,9,Sergio Díaz,Sergio Díaz Sorroche,62,68,100851,FC Cartagena,152,212,La Liga 2,152,Spain,2023-01-13,male_players.csv
+be0d2ce745bc233e0d68f4ce1f0c057bfe877cac,Sergio Granados,sergio granados,11,Left Winger,22,1,2022-08-29,2022-08-29,unmatched,,,,,,,,,,,138,415,,,,,
+81c7d819ff6193962cb1fa9442da985b67752b5c,Manuel Calvo,manuel calvo,5,Centre-Forward,25,1,2022-08-04,2022-08-04,unmatched,,,,,,,,,,,138,415,,,,,
+8ed49865e269cdae9526f88af7f07a7df4fac057,Ekhi Bravo,ekhi bravo,9,Left-Back,24,1,2022-07-21,2022-07-21,matched_unique_name,ekhi bravo,254010,21,4,Ekhi Bravo,Ekhi Bravo Díaz,59,70,467,SD Eibar,152,212,La Liga,152,Spain,2020-10-05,male_players.csv
+8adf204b264c028861cad47eede0848808d45532,David García,david garcia,8,Goalkeeper,22,1,2022-07-20,2022-07-20,matched_ambiguous_name,david garcia,225341,23,9,David García,David García Zubiría,79,80,479,Osasuna,152,210,La Liga,152,Spain,2023-01-13,male_players.csv
+a5bd271b28797d886b496e9bf581bdea76bd76cb,Christian Spadoni,christian spadoni,5,Centre-Forward,21,1,2022-08-18,2022-08-18,unmatched,,,,,,,,,,,138,415,,,,,
+0da2d3b1612565cb41e5563a5bf369ed163f3f72,Mattia D'Agostino,mattia d agostino,15,Right Winger,22,1,2022-08-04,2022-08-04,unmatched,,,,,,,,,,,138,415,,,,,
+3f1d44dd7f2e12c0d3af4f46b08ae845674d8129,Samuele Longo,samuele longo,5,Centre-Forward,30,1,2022-08-03,2022-08-03,matched_unique_name,samuele longo,208251,21,4,S. Longo,Samuele Longo,68,68,44,Inter,,,Serie A,84,Italy,2020-10-05,male_players.csv
+566c787f797b7b5cd3730f3b12f8a2f2331e425b,Lorenzo Insigne,lorenzo insigne,11,Left Winger,31,1,2022-07-07,2022-07-07,matched_unique_name,lorenzo insigne,198219,23,9,L. Insigne,Lorenzo Insigne,84,84,111651,Toronto,28,277,Major League Soccer,84,Italy,2023-01-13,male_players.csv
+add97527923f8be17eb2fd02a05d0c5587f096df,Halim Khali,halim khali,3,Central Midfield,26,1,2022-07-04,2022-07-04,unmatched,,,,,,,,,,,138,415,,,,,
+f6721cf331e56923b987ec51f1ea9ba72d3492d8,Ales Mateju,ales mateju,13,Right-Back,26,1,2022-08-26,2022-08-26,matched_unique_name,ales mateju,240282,23,9,A. Matějů,Aleš Matějů,72,72,1843,Palermo,,,Serie B,45,Czech Republic,2023-01-13,male_players.csv
+88a8be2c456fe719dd14988c19560515ef3ca144,Giacomo Romano,giacomo romano,5,Centre-Forward,29,1,2022-07-22,2022-07-22,unmatched,,,,,,,,,,,138,415,,,,,
+0668d091b2100b097b620f5be6332454ebf06028,Manuel González,manuel gonzalez,4,Centre-Back,31,1,2022-07-18,2022-07-18,matched_unique_name,manuel gonzalez,240016,18,2,M. González,Manuel González,60,63,111715,Club Atlético Tigre,6,248,Liga Profesional,6,Argentina,2017-09-18,male_players.csv
+ccd877969f93b6189c02e52362bdbaaef6642094,Roberto Codromaz,roberto codromaz,4,Centre-Back,26,1,2022-07-15,2022-07-15,unmatched,,,,,,,,,,,138,415,,,,,
+d17be8269e5a446f9db53c3209d4a986bd0a57cf,Emanuele Anastasia,emanuele anastasia,11,Left Winger,26,1,2022-07-06,2022-07-06,unmatched,,,,,,,,,,,138,415,,,,,
+4614cfee27476c61c99119060b4e7a498003cd53,Leonardo Nonni,leonardo nonni,4,Centre-Back,28,1,2022-07-04,2022-07-04,unmatched,,,,,,,,,,,138,415,,,,,
+6c170d5657e755a36d464d9eecd00421b07872fc,Cassio Cardoselli,cassio cardoselli,7,Defensive Midfield,24,1,2022-09-01,2022-09-01,unmatched,,,,,,,,,,,138,415,,,,,
+ac77ad33879c8a41e74b440490d20809c4b7dfc3,Luca Mora,luca mora,3,Central Midfield,34,1,2022-07-15,2022-07-15,matched_unique_name,luca mora,235164,21,64,L. Mora,Luca Mora,67,67,112791,SPAL,84,434,Serie B,84,Italy,2021-09-25,male_players.csv
+6c71528e23e7fb93f5c2ede24f024a2fac9a7510,Lorenzo Persichini,lorenzo persichini,5,Centre-Forward,22,1,2022-07-06,2022-07-06,unmatched,,,,,,,,,,,138,415,,,,,
+897a149bd2edb9e455b708f18833981430aadda5,Simone Pontisso,simone pontisso,7,Defensive Midfield,25,1,2022-07-05,2022-07-05,matched_unique_name,simone pontisso,228882,19,35,S. Pontisso,Simone Pontisso,65,77,55,Udinese,84,431,Serie A,84,Italy,2019-02-04,male_players.csv
+bd5d90bad4e0c5d207b6a87426ebf85d316d08c1,Domenico Franco,domenico franco,3,Central Midfield,29,1,2022-08-09,2022-08-09,unmatched,,,,,,,,,,,138,415,,,,,
+e7c7f957213329284d23ca349d0dce7f3cc46345,Nicola Tintori,nicola tintori,8,Goalkeeper,22,1,2022-07-26,2022-07-26,unmatched,,,,,,,,,,,138,415,,,,,
+b81803cba19294ecf9fc5b39939f0faed10245f1,Franco Gorzelewski,franco gorzelewski,4,Centre-Back,26,1,2022-07-23,2022-07-23,unmatched,,,,,,,,,,,138,415,,,,,
+de8176374adfc49291fe534c045eb99ec7d3801f,Luka Tomas,luka tomas,4,Centre-Back,30,1,2022-07-19,2022-07-19,unmatched,,,,,,,,,,,138,415,,,,,
+a31c9fa14bbde956905813f95db86b961348502f,Alessandro Siano,alessandro siano,8,Goalkeeper,21,1,2022-07-14,2022-07-14,unmatched,,,,,,,,,,,138,415,,,,,
+fdf70e5b74e7a15911478882b3b1fd081255c87a,Giuseppe Aurelio,giuseppe aurelio,9,Left-Back,22,1,2022-07-08,2022-07-08,unmatched,,,,,,,,,,,138,415,,,,,
+f0429d5180558bef6c73c1b9c4b1a7465ea84f38,Antonio Fiori,antonio fiori,11,Left Winger,19,1,2022-08-05,2022-08-05,unmatched,,,,,,,,,,,138,415,,,,,
+08ea32dc19097a68d8962dde7a88f086d8b2f928,Federico Trevisan,federico trevisan,4,Centre-Back,22,2,2022-07-18,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+dbc04816799ebd98ee4564f52c4f2332df4939b5,Franco Padin,franco padin,5,Centre-Forward,27,1,2022-08-11,2022-08-11,unmatched,,,,,,,,,,,138,415,,,,,
+fb31e7b7828b1042fea518f7149e32006b74cc8f,Andrea Spurio,andrea spurio,8,Goalkeeper,23,1,2022-08-25,2022-08-25,unmatched,,,,,,,,,,,138,415,,,,,
+81ad689e7baa95b8ecfeaeebef79d28298f47f4e,Daniele Ferri Marini,daniele ferri marini,11,Left Winger,31,1,2022-07-20,2022-07-20,unmatched,,,,,,,,,,,138,415,,,,,
+47393a8014a58a13946dba40ad10c71be0ce2791,Lucas Dambros,lucas dambros,5,Centre-Forward,25,1,2022-07-16,2022-07-16,matched_unique_name,lucas dambros,251986,20,4,Lucas Dambros,Lucas Dambros da Silva,63,70,112410,Trapani,,,Serie B,22,Brazil,2019-09-27,male_players.csv
+a4f1a4d35e73511df37724849c1ef0bc5fdf125d,Andreas Gkertsos,andreas gkertsos,10,Left Midfield,22,1,2022-08-30,2022-08-30,unmatched,,,,,,,,,,,138,415,,,,,
+049eea74daf80f4135a30b4913b49a938cb7ed90,Daniele Frabotta,daniele frabotta,4,Centre-Back,28,1,2022-07-27,2022-07-27,unmatched,,,,,,,,,,,138,415,,,,,
+545eb4713376524de69d3a31d4a76a1b4f3ad6a1,Simone Brugaletta,simone brugaletta,4,Centre-Back,28,1,2022-07-18,2022-07-18,unmatched,,,,,,,,,,,138,415,,,,,
+e0db3890c9da5864926fd5a076c9e6d1bf3fc129,Niccolò Bigica,niccolo bigica,3,Central Midfield,21,1,2022-08-22,2022-08-22,unmatched,,,,,,,,,,,138,415,,,,,
+5b720c13f0b850766455579da32f0ef61ee40044,Marco Asllani,marco asllani,3,Central Midfield,21,1,2022-08-11,2022-08-11,unmatched,,,,,,,,,,,138,415,,,,,
+406cc698051dbcdc98f1d4b5368882a719b43462,Pasquale Costanzo,pasquale costanzo,15,Right Winger,20,1,2022-08-09,2022-08-09,unmatched,,,,,,,,,,,138,415,,,,,
+15675032fd439ae530d66da212013f22b15dd9eb,Alvise Gherardi,alvise gherardi,8,Goalkeeper,20,1,2022-07-31,2022-07-31,unmatched,,,,,,,,,,,138,415,,,,,
+06956c239f27eb06afdf513b519dc97a58057533,Ludovico Ricci,ludovico ricci,4,Centre-Back,20,1,2022-07-28,2022-07-28,unmatched,,,,,,,,,,,138,415,,,,,
+a32eb6a17499abe20054c51939ed88bfa3f18ef0,Leonardo Caruso,leonardo caruso,8,Goalkeeper,22,1,2022-07-25,2022-07-25,unmatched,,,,,,,,,,,138,415,,,,,
+85638e5703b44e1009ca6384f460a95bf76ee38e,Raffaele Papa,raffaele papa,8,Goalkeeper,20,1,2022-07-20,2022-07-20,unmatched,,,,,,,,,,,138,415,,,,,
+7b34e6c5649ed2881702c9e76baa1bbc9d146796,Vincenzo Barone,vincenzo barone,5,Centre-Forward,27,1,2022-07-18,2022-07-18,unmatched,,,,,,,,,,,138,415,,,,,
+5cda79252176a59ae555f18e7cd5e49e219027b9,Salvatore Tringali,salvatore tringali,3,Central Midfield,20,1,2022-07-13,2022-07-13,unmatched,,,,,,,,,,,138,415,,,,,
+7c547e9ba1d197dfe8f2187410e1c64926a2d381,Federico Zazzi,federico zazzi,3,Central Midfield,25,1,2022-07-09,2022-07-09,unmatched,,,,,,,,,,,138,415,,,,,
+619da15617d5ef79d97a0eb45678a332449564d3,Alessio Ziello,alessio ziello,3,Central Midfield,23,1,2022-07-07,2022-07-07,unmatched,,,,,,,,,,,138,415,,,,,
+4165a7ac5b0bd0dd965d7b3a6553eaf54426b3e8,Alessandro Marconi,alessandro marconi,8,Goalkeeper,20,1,2022-07-02,2022-07-02,unmatched,,,,,,,,,,,138,415,,,,,
+ac68617f1233d8023b056627d1d3a5116235673b,Leonardo Vespa,leonardo vespa,3,Central Midfield,19,1,2022-08-15,2022-08-15,unmatched,,,,,,,,,,,138,415,,,,,
+d3fed39efa2fad75453ab8f7d26efa9a721c50a1,Enrico Geroni,enrico geroni,3,Central Midfield,33,1,2022-07-15,2022-07-15,unmatched,,,,,,,,,,,138,415,,,,,
+fe01c512564d3b94366667e561c9fbd68acb1e8c,Mattia Falchetto,mattia falchetto,3,Central Midfield,28,1,2022-07-12,2022-07-12,unmatched,,,,,,,,,,,138,415,,,,,
+191443d091e78f748a6b8e35e42fc088daba3be6,Papa Dadson,papa dadson,3,Central Midfield,32,1,2022-07-10,2022-07-10,unmatched,,,,,,,,,,,138,415,,,,,
+f007a6320a4d36cda53ee04721754052d2df441c,Mattia Ronco,mattia ronco,8,Goalkeeper,19,1,2022-08-30,2022-08-30,unmatched,,,,,,,,,,,138,415,,,,,
+c9ce84c4b58a278b8f54ab0ea1e022b375cfe484,Francesco Karkalis,francesco karkalis,9,Left-Back,27,1,2022-08-17,2022-08-17,matched_unique_name,francesco karkalis,222458,20,4,F. Karkalis,Francesco Karkalis,56,62,200,Pescara,,,Serie B,84,Italy,2019-09-27,male_players.csv
+715f931b0b358dc2749cc3e446eafd89b6ab1a98,Tommaso Marino,tommaso marino,9,Left-Back,20,1,2022-08-13,2022-08-13,unmatched,,,,,,,,,,,138,415,,,,,
+ddaec0c8c38adf948f1d2e1294b396c63b433d35,Mattia Poletto,mattia poletto,3,Central Midfield,23,1,2022-08-09,2022-08-09,unmatched,,,,,,,,,,,138,415,,,,,
+97c284fac7ed9c5068c1795c88867bba76755e1a,Diego Vannucci,diego vannucci,9,Left-Back,34,1,2022-07-29,2022-07-29,unmatched,,,,,,,,,,,138,415,,,,,
+e7e0d4cf503141c3c46f335cfec4c66fb22846c8,Ciro Palmieri,ciro palmieri,16,Second Striker,22,1,2022-07-29,2022-07-29,unmatched,,,,,,,,,,,138,415,,,,,
+a4f952d7a49d1bddcfb37d14a11c1fbd64098b9a,Matteo Prosdocimi,matteo prosdocimi,3,Central Midfield,19,1,2022-07-20,2022-07-20,unmatched,,,,,,,,,,,138,415,,,,,
+6c6de29b805c2557aa28fece54ff73d383d1b1c9,Klavs Bethers,klavs bethers,8,Goalkeeper,18,1,2022-07-10,2022-07-10,unmatched,,,,,,,,,,,138,415,,,,,
+2a0e35778983fbec28d1d90af18a9bb0788327fb,Filippo Ferrara,filippo ferrara,8,Goalkeeper,20,1,2022-07-06,2022-07-06,unmatched,,,,,,,,,,,138,415,,,,,
+185807cca4bcd2b6aa479a8448892202fa29d67a,Théo Reymond,theo reymond,7,Defensive Midfield,27,1,2022-08-27,2022-08-27,unmatched,,,,,,,,,,,138,415,,,,,
+52e112b959a9733a35f3e909e2ef2ae64763741e,Michele Fucci,michele fucci,7,Defensive Midfield,20,1,2022-08-05,2022-08-05,unmatched,,,,,,,,,,,138,415,,,,,
+7e82e887d4fce71018284cd9473e25739192c279,Francesco Zambruno,francesco zambruno,13,Right-Back,18,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+19866515cfb0ebcaa568e17fa3223e3f4c26e75c,Matteo Salvatori,matteo salvatori,11,Left Winger,23,1,2022-07-29,2022-07-29,unmatched,,,,,,,,,,,138,415,,,,,
+2acbd5998e5466f49ce5da36466a2b5b54ab2a5f,Sebastian Camponesco,sebastian camponesco,2,Attacking Midfield,21,1,2022-07-22,2022-07-22,unmatched,,,,,,,,,,,138,415,,,,,
+3d173d7e7b9e7cb2405da782d53abea2079051a4,Samuele Sordillo,samuele sordillo,13,Right-Back,21,1,2022-07-21,2022-07-21,unmatched,,,,,,,,,,,138,415,,,,,
+02f09184d5c691c530aebb05d2f32c6e622c002b,Roberto Carlos Marcelli,roberto carlos marcelli,3,Central Midfield,23,1,2022-07-07,2022-07-07,unmatched,,,,,,,,,,,138,415,,,,,
+55b7b06a52510f0b715e99aef9bcb3c1f15e1f7f,Vincenzo Furina,vincenzo furina,5,Centre-Forward,20,1,2022-08-27,2022-08-27,unmatched,,,,,,,,,,,138,415,,,,,
+faeb94139d2f0abcc8536e9271fdf144b5370828,Mattia Bisceglia,mattia bisceglia,4,Centre-Back,23,1,2022-08-08,2022-08-08,unmatched,,,,,,,,,,,138,415,,,,,
+09d18ea67c8dce973ce810ec3b8284dc4ff9b961,Alessio Petti,alessio petti,9,Left-Back,31,1,2022-08-06,2022-08-06,unmatched,,,,,,,,,,,138,415,,,,,
+f2170880bd5af09a23638312a1a7221743af9017,Alessio Hyseni,alessio hyseni,7,Defensive Midfield,25,1,2022-08-17,2022-08-17,unmatched,,,,,,,,,,,138,415,,,,,
+3ee3170998aa861dc23aeb96b10b9e128955af03,Francesco Fabri,francesco fabri,3,Central Midfield,18,1,2022-07-23,2022-07-23,unmatched,,,,,,,,,,,138,415,,,,,
+483a23036580045fa17a1ff0f50d0b04854157e0,Ciro Sicuro,ciro sicuro,13,Right-Back,22,1,2022-07-22,2022-07-22,unmatched,,,,,,,,,,,138,415,,,,,
+431e9999ff4cf9a206b4f81dae8a586c5bccfddb,Daniele Ancione,daniele ancione,2,Attacking Midfield,39,1,2022-08-08,2022-08-08,unmatched,,,,,,,,,,,138,415,,,,,
+20986f12ade47b8ca43bd6318eb3cba6272a12a5,Mamadou Ndiaye,mamadou ndiaye,5,Centre-Forward,23,1,2022-07-13,2022-07-13,unmatched,,,,,,,,,,,138,415,,,,,
+ef782338d5bd02656fb4f401c8e7499008b82419,Claudio Di Giuseppe,claudio di giuseppe,5,Centre-Forward,36,1,2022-07-05,2022-07-05,unmatched,,,,,,,,,,,138,415,,,,,
+6ce1e83898da14585bb123dffab4483339c1a25a,Francesco Di Bari,francesco di bari,3,Central Midfield,27,1,2022-07-02,2022-07-02,unmatched,,,,,,,,,,,138,415,,,,,
+9c17ca9c52a15e6abf8d57d55c9b07e4d4e3cc3b,Antonio Caponero,antonio caponero,10,Left Midfield,23,1,2022-08-09,2022-08-09,unmatched,,,,,,,,,,,138,415,,,,,
+2b4e18794523e19f95ee0eaadb12fce7692788ce,Giacomo Bacigalupo,giacomo bacigalupo,4,Centre-Back,22,1,2022-07-30,2022-07-30,unmatched,,,,,,,,,,,138,415,,,,,
+3e720008a4cfbeaaf07fa06e4b3609f743a0f26b,Lorenzo Cortinovis,lorenzo cortinovis,4,Centre-Back,23,1,2022-07-21,2022-07-21,unmatched,,,,,,,,,,,138,415,,,,,
+30cc6f607e5ade02a846b5927df11bd00dd9ee5e,Agustín Marchesín,agustin marchesin,8,Goalkeeper,34,1,2022-08-01,2022-08-01,unmatched,,,,,,,,,,,138,415,,,,,
+662a28c2ab55cdffed5467b0df13cdb824c787b0,Predrag Rajković,predrag rajkovic,8,Goalkeeper,26,1,2022-07-22,2022-07-22,matched_unique_name,predrag rajkovic,241727,23,9,P. Rajković,Predrag Rajković,78,81,453,Mallorca,152,210,La Liga,145,Serbia,2023-01-13,male_players.csv
+0a8db863ea976dbd753338b651c7a37881605f81,Luís Maximiano,luis maximiano,8,Goalkeeper,23,1,2022-07-13,2022-07-13,matched_unique_name,luis maximiano,244316,23,9,Luís Maximiano,Luís Manuel Arantes Maximiano,78,84,46,Lazio,,,Serie A,134,Portugal,2023-01-13,male_players.csv
+f70e9c513693f40396674f6babb77788a153ea08,Irakli Azarovi,irakli azarovi,9,Left-Back,20,1,2022-08-05,2022-08-05,unmatched,,,,,,,,,,,138,415,,,,,
+b32de2d193c3b25e0725380a79d9615aae3451c5,Aaron Hickey,aaron hickey,9,Left-Back,20,1,2022-07-09,2022-07-09,unmatched,,,,,,,,,,,138,415,,,,,
+b03444a55567d73b703adc8a83a93fd899bf6dd6,Shaquille Pinas,shaquille pinas,4,Centre-Back,24,1,2022-07-15,2022-07-15,matched_unique_name,shaquille pinas,241538,23,9,S. Pinas,Shaquille Pinas,66,73,708,Hammarby,155,51,Allsvenskan,154,Suriname,2023-01-13,male_players.csv
+154b0d2fb4f2ec7df34cfaf14d5d92a92718ab1e,Matteo Angeli,matteo angeli,4,Centre-Back,19,1,2022-07-06,2022-07-06,unmatched,,,,,,,,,,,138,415,,,,,
+ee42eb1eb4883701c7c17382954c7499796d5ee3,Orestis Kiomourtzoglou,orestis kiomourtzoglou,7,Defensive Midfield,24,1,2022-08-28,2022-08-28,matched_unique_name,orestis kiomourtzoglou,238965,23,9,O. Kiomourtzoglou,Orestis Kiomourtzoglou,67,70,80,Hearts,,,Premiership,64,Germany,2023-01-13,male_players.csv
+de06e325952bb560b0a7deb4e94408126aa733e3,Alessandro Mastalli,alessandro mastalli,3,Central Midfield,26,1,2022-08-16,2022-08-16,matched_unique_name,alessandro mastalli,220670,20,61,A. Mastalli,Alessandro Mastalli,65,69,112124,Juve Stabia,,,Serie B,84,Italy,2020-09-23,male_players.csv
+128ad77dc2b702572477051122b1bf0517720dfa,João Novais,joao novais,3,Central Midfield,29,1,2022-08-11,2022-08-11,matched_unique_name,joao novais,229406,23,1,João Novais,João Pedro Barradas Novais,74,74,1896,Sporting Braga,134,246,Liga Portugal,134,Portugal,2022-09-01,male_players.csv
+d9132fe10ede5082d57c6e5beb1b22c518e9327c,Alfa Semedo,alfa semedo,7,Defensive Midfield,24,1,2022-08-10,2022-08-10,matched_unique_name,alfa semedo,239641,23,9,Alfa Semedo,Alfa Semedo Esteves,69,73,112572,Al Tai,142,392,Pro League,71,Guinea Bissau,2023-01-13,male_players.csv
+5cfdb8b5008b6efd5a0f4592f1ceea83ab6bba46,Jhegson Méndez,jhegson mendez,7,Defensive Midfield,25,1,2022-07-19,2022-07-19,unmatched,,,,,,,,,,,138,415,,,,,
+e3717262a367e03be5ecb70e13ab21e7b42ae44f,Christofer Gonzales,christofer gonzales,2,Attacking Midfield,29,1,2022-07-07,2022-07-07,unmatched,,,,,,,,,,,138,415,,,,,
+280c3d8d564dad35ab916854fe141e8bb8ab959b,Daniel Mandroiu,daniel mandroiu,2,Attacking Midfield,23,1,2022-07-07,2022-07-07,matched_unique_name,daniel mandroiu,240978,23,4,D. Mandroiu,Daniel Mandroiu,65,72,149,Lincoln City,53,217,League One,136,Republic of Ireland,2022-10-07,male_players.csv
+dcb78a3a8f00a7bfc241ab71c44097baa18aeba2,Ivan Petryak,ivan petryak,11,Left Winger,28,1,2022-08-22,2022-08-22,matched_unique_name,ivan petryak,239929,23,9,I. Petryak,Ivan Petryak,69,69,101059,Shakhtar Donetsk,167,368,Premier League,167,Ukraine,2023-01-13,male_players.csv
+2c653bd480a4053535ac9f01433f7776d50dc14b,Ismael Tajouri-Shradi,ismael tajouri shradi,15,Right Winger,28,1,2022-08-04,2022-08-04,matched_unique_name,ismael tajouri shradi,213302,23,8,I. Tajouri-Shradi,Ismael Tajouri-Shradi,70,70,691,New England,169,278,Major League Soccer,98,Libya,2022-12-17,male_players.csv
+9f85ed3c8efa13376dc830e3e2ca73265834efff,Umut Bozok,umut bozok,5,Centre-Forward,25,1,2022-08-31,2022-08-31,unmatched,,,,,,,,,,,138,415,,,,,
+7a9a5b2fb3b7f4492c90c4e04d09d4dabd2d69b8,Tiquinho Soares,tiquinho soares,5,Centre-Forward,31,1,2022-08-12,2022-08-12,matched_unique_name,tiquinho soares,227476,17,33,Tiquinho Soares,Francisco das Chagas Soares dos Santos,76,78,236,Porto,134,246,Liga Portugal,22,Brazil,2017-01-30,male_players.csv
+2c1a1d47691642687aa3c8eb56f041cd9ae7e042,Michael de Leeuw,michael de leeuw,5,Centre-Forward,35,1,2022-08-10,2022-08-10,unmatched,,,,,,,,,,,138,415,,,,,
+d44d33c45cbaf95eba5f14bdeac18d15300a7a22,Tonni Adamsen,tonni adamsen,5,Centre-Forward,27,1,2022-08-06,2022-08-06,matched_unique_name,tonni adamsen,271320,23,9,T. Adamsen,Tonni Adamsen,65,65,270,Silkeborg,46,473,Superliga,46,Denmark,2023-01-13,male_players.csv
+078ef7115e208c788b461512c2a1bd098ce54b4a,Aleksandar Pesic,aleksandar pesic,5,Centre-Forward,30,1,2022-07-20,2022-07-20,matched_unique_name,aleksandar pesic,223489,22,64,A. Pešić,Aleksandar Pešić,72,72,111117,Fatih Karagümrük,164,465,Super Lig,145,Serbia,2022-07-18,male_players.csv
+f70a60533df567c1ca04d4342664e7f904a5ac28,Alen Ozbolt,alen ozbolt,5,Centre-Forward,26,1,2022-07-17,2022-07-17,matched_unique_name,alen ozbolt,244436,19,2,A. Ožbolt,Alen Ožbolt,57,64,2017,TSV Egger Glas Hartberg,,,Bundesliga,149,Slovenia,2018-08-21,male_players.csv
+aad43e61fceb492fe0906bc7aad4e64edcd43b19,Antonio Colak,antonio colak,5,Centre-Forward,28,1,2022-07-07,2022-07-07,unmatched,,,,,,,,,,,138,415,,,,,
+f1ff2d3e81bd5727bd2cdf0a1fcc4f202ad21ba8,El Bilal Touré,el bilal toure,5,Centre-Forward,20,1,2022-09-01,2022-09-01,matched_unique_name,el bilal toure,255529,23,9,E. Touré,El Bilal Touré,70,80,1861,Almería,,,La Liga,105,Mali,2023-01-13,male_players.csv
+d96768a8d0ae89b2f2c25f724af41d1d974ac30f,Willyan Rocha,willyan rocha,4,Centre-Back,27,1,2022-09-01,2022-09-01,unmatched,,,,,,,,,,,138,415,,,,,
+6a557d6c14e4fa51e28c45977d091ebe7d9f6ca3,Douglas Mendes,douglas mendes,4,Centre-Back,18,1,2022-08-12,2022-08-12,unmatched,,,,,,,,,,,138,415,,,,,
+0337a4ada2888a790b3b4de712b5647685f6534c,Isak Dybvik Määttä,isak dybvik maatta,9,Left-Back,20,1,2022-08-01,2022-08-01,matched_unique_name,isak dybvik maatta,256397,23,9,I. Määttä,Isak Dybvik Määttä,65,77,1915,FC Groningen,119,136,Eredivisie,125,Norway,2023-01-13,male_players.csv
+946436e38c2aa8bda32808947021f15060c323e3,Abdelmounaim Boutouil,abdelmounaim boutouil,4,Centre-Back,24,1,2022-07-11,2022-07-11,unmatched,,,,,,,,,,,138,415,,,,,
+69a892b7643d36b194d13d1f1434088663b121c5,Giacomo Vrioni,giacomo vrioni,5,Centre-Forward,23,1,2022-07-07,2022-07-07,matched_unique_name,giacomo vrioni,235194,23,9,G. Vrioni,Giacomo Vrioni,70,76,691,New England,169,278,Major League Soccer,2,Albania,2023-01-13,male_players.csv
+f8399aad7afc49c8dc770d24ad5c4cfcaa34c8f7,Panutche Camara,panutche camara,3,Central Midfield,25,1,2022-09-01,2022-09-01,matched_unique_name,panutche camara,240331,23,9,Panutche Camará,Panutche Amadu Pereira Camará,68,71,94,Ipswich Town,53,217,League One,71,Guinea Bissau,2023-01-13,male_players.csv
+d3d465d429d09eafc3e397e31c62407bda5384f3,Casemiro,casemiro,7,Defensive Midfield,30,1,2022-08-22,2022-08-22,matched_unique_name,casemiro,200145,23,9,Casemiro,Carlos Henrique Venancio Casimiro,89,89,11,Manchester United,53,358,Premier League,22,Brazil,2023-01-13,male_players.csv
+ca9208f0770ad3fe3934b6be7baece2bca690747,Francesco Caputo,francesco caputo,5,Centre-Forward,34,1,2022-07-01,2022-07-01,matched_unique_name,francesco caputo,189053,23,9,F. Caputo,Francesco Caputo,76,76,1746,Empoli,,,Serie A,84,Italy,2023-01-13,male_players.csv
+465d77266b9f6eb20ae57669f6a6db515a4c0d47,Armel Bella-Kotchap,armel bella kotchap,4,Centre-Back,20,1,2022-07-01,2022-07-01,matched_unique_name,armel bella kotchap,247497,23,9,A. Bella Kotchap,Armel Bella Kotchap,74,83,17,Southampton,,,Premier League,64,Germany,2023-01-13,male_players.csv
+0374d3b577315c38a7936609777f9d173e062f07,Jota,jota,11,Left Winger,23,1,2022-07-01,2022-07-01,matched_ambiguous_name,jota,234570,23,9,Jota,João Pedro Neves Filipe,76,83,78,Celtic,,,Premiership,134,Portugal,2023-01-13,male_players.csv
+a9dd465909a9be45735bc8cda9449ee45a2186d3,Hidemasa Morita,hidemasa morita,7,Defensive Midfield,27,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+2e893da2ff2b8825a12b3080189e5d4dbabfc65e,Elias Cobbaut,elias cobbaut,4,Centre-Back,24,1,2022-07-01,2022-07-01,matched_unique_name,elias cobbaut,232526,23,9,E. Cobbaut,Elias Cobbaut,71,76,50,Parma,,,Serie B,14,Belgium,2023-01-13,male_players.csv
+bf346866d108ad9f989ccdd52318d785f24846f4,Itamar Shviro,itamar shviro,5,Centre-Forward,24,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+180ca2f401500d32c129211166c6c86a281ef68b,Noaf Bazea,noaf bazea,2,Attacking Midfield,21,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+88c9689436a182f65032a2f2b56c1d07b64cbbd8,Alexandru Albu,alexandru albu,7,Defensive Midfield,28,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+f68d2a94af6dfdde765f0352ed16800264932730,Matt Macey,matt macey,8,Goalkeeper,27,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+86d0d7455d8cc4c1e496a5d5f91c165c65362c64,Kundai Benyu,kundai benyu,3,Central Midfield,24,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+f4751f27b17ebc91eedc595f58b420aa33af4903,Lucas Alario,lucas alario,5,Centre-Forward,29,1,2022-07-01,2022-07-01,unmatched,,,,,,,,,,,138,415,,,,,
+64b933fc20c802e545f1c684871ddb341ab78fe0,Adrian Gryszkiewicz,adrian gryszkiewicz,4,Centre-Back,22,1,2022-07-01,2022-07-01,matched_unique_name,adrian gryszkiewicz,242512,23,8,A. Gryszkiewicz,Adrian Gryszkiewicz,66,73,10030,Paderborn,64,13,2. Bundesliga,133,Poland,2022-12-17,male_players.csv

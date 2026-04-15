@@ -1,0 +1,536 @@
+league_dim_id,league_name,league_name_normalized,country_dim_id,country_name
+1,1. CFL,1 cfl,113,Montenegro
+2,1. deild,1 deild,57,Faroe Islands
+3,1.Division,1 division,46,Denmark
+4,1.Division,1 division,139,Russia
+5,1. Dorostenecka liga,1 dorostenecka liga,45,Czech Republic
+6,1.Lig,1 lig,164,Turkey
+7,1.Liga,1 liga,95,Latvia
+8,1. Liga gr. 1,1 liga gr 1,156,Switzerland
+9,1. Liga gr. 2,1 liga gr 2,156,Switzerland
+10,1. Liga gr. 3,1 liga gr 3,99,Liechtenstein
+11,1. Liga gr. 3,1 liga gr 3,156,Switzerland
+12,1ste Nationale,1ste nationale,14,Belgium
+13,2. Bundesliga,2 bundesliga,64,Germany
+14,2. deild,2 deild,77,Iceland
+15,2.Division,2 division,46,Denmark
+16,2 League Group 1,2 league group 1,139,Russia
+17,2 League Group 2,2 league group 2,139,Russia
+18,2 League Group 3,2 league group 3,139,Russia
+19,2 League Group 4,2 league group 4,139,Russia
+20,2.Lig Beyaz,2 lig beyaz,164,Turkey
+21,2.Lig Kirmizi,2 lig kirmizi,164,Turkey
+22,2. Liga,2 liga,9,Austria
+23,2. Liga Inter - Gr. 1,2 liga inter gr 1,156,Switzerland
+24,2. Liga Inter - Gr. 2,2 liga inter gr 2,156,Switzerland
+25,2. Liga Inter - Gr. 3,2 liga inter gr 3,156,Switzerland
+26,2. Liga Inter - Gr. 4,2 liga inter gr 4,156,Switzerland
+27,2. Liga Inter - Gr. 5,2 liga inter gr 5,99,Liechtenstein
+28,2. Liga Inter - Gr. 5,2 liga inter gr 5,156,Switzerland
+29,2. LL NÖ West,2 ll no west,9,Austria
+30,2de Nationale ACFF,2de nationale acff,14,Belgium
+31,2de Nationale VFV A,2de nationale vfv a,14,Belgium
+32,2de Nationale VFV B,2de nationale vfv b,14,Belgium
+33,2nd Division,2nd division,44,Cyprus
+34,3.Lig Grup 1,3 lig grup 1,164,Turkey
+35,3.Lig Grup 2,3 lig grup 2,164,Turkey
+36,3.Lig Grup 3,3 lig grup 3,164,Turkey
+37,3. Liga,3 liga,64,Germany
+38,3 Liga - Group I,3 liga group i,133,Poland
+39,3 Liga - Group II,3 liga group ii,133,Poland
+40,3 Liga - Group III,3 liga group iii,133,Poland
+41,3 Liga - Group IV,3 liga group iv,133,Poland
+42,3rd Division,3rd division,44,Cyprus
+43,A-League,a league,8,Australia
+44,A-League,a league,120,New Zealand
+45,A-League Men,a league men,8,Australia
+46,A-League Men,a league men,120,New Zealand
+47,A Lyga,a lyga,100,Lithuania
+48,Abissnet Superiore,abissnet superiore,2,Albania
+49,Albania,albania,2,Albania
+50,Algeria,algeria,3,Algeria
+51,Allsvenskan,allsvenskan,155,Sweden
+52,Andorra,andorra,4,Andorra
+53,Angola,angola,5,Angola
+54,Argentina,argentina,6,Argentina
+55,Armenia,armenia,7,Armenia
+56,Australia,australia,8,Australia
+57,Austria,austria,9,Austria
+58,Azadegan League,azadegan league,80,Iran
+59,Azerbaijan,azerbaijan,10,Azerbaijan
+60,Bahrain,bahrain,11,Bahrain
+61,Bangladesh,bangladesh,12,Bangladesh
+62,Bangladesh PL,bangladesh pl,12,Bangladesh
+63,Bardzragujn khumb,bardzragujn khumb,7,Armenia
+64,Bayernliga Nord,bayernliga nord,64,Germany
+65,Bayernliga Süd,bayernliga sud,64,Germany
+66,BC Olimp Premier League,bc olimp premier league,94,Kyrgyzstan
+67,Belarus,belarus,13,Belarus
+68,Belgium,belgium,14,Belgium
+69,Belize,belize,15,Belize
+70,Berlin-Liga,berlin liga,64,Germany
+71,Besta deild,besta deild,77,Iceland
+72,Betri-deildin,betri deildin,57,Faroe Islands
+73,BGL Ligue,bgl ligue,101,Luxembourg
+74,Bhutan,bhutan,17,Bhutan
+75,Bolivia,bolivia,18,Bolivia
+76,Bosnia-Herzegovina,bosnia herzegovina,20,Bosnia-Herzegovina
+77,Botola Pro Inwi,botola pro inwi,114,Morocco
+78,Botsuana,botsuana,21,Botsuana
+79,Brandenburgliga,brandenburgliga,64,Germany
+80,Brazil,brazil,22,Brazil
+81,Bremenliga,bremenliga,64,Germany
+82,Bulgaria,bulgaria,23,Bulgaria
+83,Bundesliga,bundesliga,9,Austria
+84,Bundesliga,bundesliga,64,Germany
+85,Burgenlandliga,burgenlandliga,9,Austria
+86,Cambodia,cambodia,26,Cambodia
+87,Camp. Sammarinese,camp sammarinese,141,San Marino
+88,Campeonato Baiano,campeonato baiano,22,Brazil
+89,Campeonato Brasiliense,campeonato brasiliense,22,Brazil
+90,Campeonato Capixaba,campeonato capixaba,22,Brazil
+91,Campeonato Goiano,campeonato goiano,22,Brazil
+92,Canada,canada,28,Canada
+93,CanPL,canpl,28,Canada
+94,CFL,cfl,45,Czech Republic
+95,Challenge League,challenge league,99,Liechtenstein
+96,Challenge League,challenge league,106,Malta
+97,Challenge League,challenge league,156,Switzerland
+98,Challenger Pro League,challenger pro league,14,Belgium
+99,Championnat National,championnat national,60,France
+100,Championship,championship,53,England
+101,Championship,championship,124,Northern Ireland
+102,Championship,championship,143,Scotland
+103,Championship,championship,175,Wales
+104,Chile,chile,31,Chile
+105,China,china,32,China
+106,Chinese Taipei (Taiwan),chinese taipei taiwan,35,Chinese Taipei (Taiwan)
+107,Colombia,colombia,36,Colombia
+108,Congo,congo,38,Congo
+109,Costa Rica,costa rica,40,Costa Rica
+110,Cote d'Ivoire,cote d ivoire,41,Cote d'Ivoire
+111,Croatia,croatia,42,Croatia
+112,Crystalbet Erovnuli Liga,crystalbet erovnuli liga,63,Georgia
+113,Cymru North,cymru north,175,Wales
+114,Cymru Premier,cymru premier,175,Wales
+115,Cyprus,cyprus,44,Cyprus
+116,Czech Republic,czech republic,45,Czech Republic
+117,Denmark,denmark,46,Denmark
+118,Derde Divisie Saturday,derde divisie saturday,119,Netherlands
+119,Derde Divisie Sunday,derde divisie sunday,119,Netherlands
+120,División Profesional Clausura,division profesional clausura,18,Bolivia
+121,Djibouti,djibouti,47,Djibouti
+122,DR Congo,dr congo,49,DR Congo
+123,Druga Liga,druga liga,113,Montenegro
+124,Druga Liga,druga liga,149,Slovenia
+125,DStv Premiership,dstv premiership,150,South Africa
+126,Ecuador,ecuador,50,Ecuador
+127,efbet Liga,efbet liga,23,Bulgaria
+128,Egypt,egypt,51,Egypt
+129,Ehrenpromotion,ehrenpromotion,101,Luxembourg
+130,Ekstraklasa,ekstraklasa,133,Poland
+131,El Salvador,el salvador,52,El Salvador
+132,Eliteliga Vorarlberg,eliteliga vorarlberg,9,Austria
+133,Eliteserien,eliteserien,125,Norway
+134,England,england,53,England
+135,Equatorial Guinea,equatorial guinea,54,Equatorial Guinea
+136,Eredivisie,eredivisie,119,Netherlands
+137,Erovnuli Liga 2,erovnuli liga 2,63,Georgia
+138,Ethiopia,ethiopia,56,Ethiopia
+139,Ettan Norra,ettan norra,155,Sweden
+140,Ettan Södra,ettan sodra,155,Sweden
+141,eWinner 2 liga,ewinner 2 liga,133,Poland
+142,Finland,finland,59,Finland
+143,First Division,first division,82,Ireland
+144,First League,first league,7,Armenia
+145,FNL,fnl,45,Czech Republic
+146,Football League Div.2,football league div 2,35,Chinese Taipei (Taiwan)
+147,Football Premier League,football premier league,34,Chinese Taipei
+148,Football Premier League,football premier league,35,Chinese Taipei (Taiwan)
+149,Fortuna 1 Liga,fortuna 1 liga,133,Poland
+150,Fortuna Liga,fortuna liga,45,Czech Republic
+151,Fortuna Liga,fortuna liga,148,Slovakia
+152,France,france,60,France
+153,Gabon,gabon,61,Gabon
+154,Georgia,georgia,63,Georgia
+155,Germany,germany,64,Germany
+156,Ghana,ghana,65,Ghana
+157,Gibraltar Football League,gibraltar football league,66,Gibraltar
+158,Gozo League,gozo league,106,Malta
+159,Greece,greece,67,Greece
+160,Guadeloupe,guadeloupe,68,Guadeloupe
+161,Guatemala,guatemala,69,Guatemala
+162,Guinea,guinea,70,Guinea
+163,Hessenliga,hessenliga,64,Germany
+164,Highland League,highland league,143,Scotland
+165,Honduras,honduras,73,Honduras
+166,Hong Kong First Division,hong kong first division,75,Hongkong
+167,Hong Kong Premier League,hong kong premier league,75,Hongkong
+168,Hongkong,hongkong,75,Hongkong
+169,Hungary,hungary,76,Hungary
+170,I-League,i league,78,India
+171,Iceland,iceland,77,Iceland
+172,II. Liga,ii liga,148,Slovakia
+173,India,india,78,India
+174,Indian Super League,indian super league,78,India
+175,Indonesia,indonesia,79,Indonesia
+176,Interm. League,interm league,66,Gibraltar
+177,Intermedia,intermedia,124,Northern Ireland
+178,Iran,iran,80,Iran
+179,Iraq,iraq,81,Iraq
+180,Ireland,ireland,82,Ireland
+181,Israel,israel,83,Israel
+182,Italy,italy,84,Italy
+183,J-League,j league,86,Japan
+184,J1 League,j1 league,86,Japan
+185,J2 League,j2 league,86,Japan
+186,J3 League,j3 league,86,Japan
+187,Jack’s League,jacks league,119,Netherlands
+188,Japan,japan,86,Japan
+189,Japan Football League,japan football league,86,Japan
+190,Jordan,jordan,87,Jordan
+191,Jupiler Pro League,jupiler pro league,14,Belgium
+192,K League 1,k league 1,91,"Korea, South"
+193,K League 2,k league 2,91,"Korea, South"
+194,K3 League,k3 league,91,"Korea, South"
+195,K4 League,k4 league,91,"Korea, South"
+196,Kakkonen - Group A,kakkonen group a,59,Finland
+197,Kakkonen - Group B,kakkonen group b,59,Finland
+198,Kansai Soccer League (Div.1),kansai soccer league div 1,86,Japan
+199,Kanto Soccer League (Div.1),kanto soccer league div 1,86,Japan
+200,Kategoria e Parë,kategoria e pare,2,Albania
+201,Kazakhstan,kazakhstan,88,Kazakhstan
+202,Keuken Kampioen Divisie,keuken kampioen divisie,119,Netherlands
+203,Kolmonen Etelä C,kolmonen etela c,59,Finland
+204,"Korea, South",korea south,91,"Korea, South"
+205,Kosovo,kosovo,92,Kosovo
+206,Kuwait,kuwait,93,Kuwait
+207,La Liga,la liga,152,Spain
+208,La Liga 2,la liga 2,4,Andorra
+209,La Liga 2,la liga 2,152,Spain
+210,LaLiga,laliga,152,Spain
+211,LaLiga2,laliga2,4,Andorra
+212,LaLiga2,laliga2,152,Spain
+213,Landesliga Hammonia,landesliga hammonia,64,Germany
+214,Landesliga Hansa,landesliga hansa,64,Germany
+215,League 2,league 2,80,Iran
+216,League One,league one,32,China
+217,League One,league one,53,England
+218,League One,league one,143,Scotland
+219,League Two,league two,53,England
+220,League Two,league two,143,Scotland
+221,League Two,league two,175,Wales
+222,League Two A,league two a,32,China
+223,League Two B,league two b,32,China
+224,League Two C,league two c,32,China
+225,Leb. Premier League,leb premier league,96,Lebanon
+226,Lengjudeild,lengjudeild,77,Iceland
+227,Libya,libya,98,Libya
+228,Liga 1,liga 1,79,Indonesia
+229,Liga 1,liga 1,138,Romania
+230,Liga 1 Clausura,liga 1 clausura,131,Peru
+231,Liga 2,liga 2,79,Indonesia
+232,Liga 2,liga 2,131,Peru
+233,Liga 2,liga 2,138,Romania
+234,Liga BetPlay,liga betplay,36,Colombia
+235,Liga de Ascenso,liga de ascenso,170,Uruguay
+236,Liga DIMAYOR II,liga dimayor ii,36,Colombia
+237,Liga Dominicana - Liguilla,liga dominicana liguilla,48,Dominican Republic
+238,Liga Expansión MX Ap.,liga expansion mx ap,109,Mexico
+239,Liga FUTVE,liga futve,173,Venezuela
+240,Liga Leumit,liga leumit,83,Israel
+241,Liga MX,liga mx,109,Mexico
+242,Liga MX Apertura,liga mx apertura,109,Mexico
+243,Liga Nacional Apertura,liga nacional apertura,69,Guatemala
+244,Liga Nacional Apertura,liga nacional apertura,73,Honduras
+245,Liga Panameña Clausura,liga panamena clausura,129,Panama
+246,Liga Portugal,liga portugal,134,Portugal
+247,Liga Pro,liga pro,50,Ecuador
+248,Liga Profesional,liga profesional,6,Argentina
+249,Liga Sabseg,liga sabseg,134,Portugal
+250,Ligat ha'Al,ligat ha al,83,Israel
+251,Ligue 1,ligue 1,60,France
+252,Ligue 1,ligue 1,111,Monaco
+253,Ligue 2,ligue 2,60,France
+254,Ligue I Pro,ligue i pro,163,Tunisia
+255,Ligue Professionnelle 1,ligue professionnelle 1,3,Algeria
+256,Lithuania,lithuania,100,Lithuania
+257,LL Bayern-Mitte,ll bayern mitte,64,Germany
+258,LL Bayern-S/O,ll bayern s o,64,Germany
+259,LL Bayern-S/W,ll bayern s w,64,Germany
+260,LL Lüneburg,ll luneburg,64,Germany
+261,LL Mittelr. 2,ll mittelr 2,64,Germany
+262,LL Niederösterreich,ll niederosterreich,9,Austria
+263,LL Steiermark,ll steiermark,9,Austria
+264,LL Weser-Ems,ll weser ems,64,Germany
+265,Lowland League,lowland league,53,England
+266,Lowland League,lowland league,143,Scotland
+267,Luxembourg,luxembourg,101,Luxembourg
+268,Madagascar,madagascar,102,Madagascar
+269,Major League Soccer,major league soccer,28,Canada
+270,Major League Soccer,major league soccer,169,United States
+271,Malaysia,malaysia,103,Malaysia
+272,Maldives,maldives,104,Maldives
+273,Malta,malta,106,Malta
+274,Mauritania,mauritania,107,Mauritania
+275,Mexico,mexico,109,Mexico
+276,Mittelrheinliga,mittelrheinliga,64,Germany
+277,MLS,mls,28,Canada
+278,MLS,mls,169,United States
+279,MLS Next Pro,mls next pro,28,Canada
+280,MLS Next Pro,mls next pro,169,United States
+281,Moldova,moldova,110,Moldova
+282,Monaco,monaco,111,Monaco
+283,Mongolia,mongolia,112,Mongolia
+284,Montenegro,montenegro,113,Montenegro
+285,Morocco,morocco,114,Morocco
+286,MSFL,msfl,45,Czech Republic
+287,N 3 - Auvergne-Rhône-A.,n 3 auvergne rhone a,60,France
+288,N 3 - Bourg.-Fr.-Comté,n 3 bourg fr comte,60,France
+289,N 3 - Bretagne,n 3 bretagne,60,France
+290,N 3 - Centre-Val de Loire,n 3 centre val de loire,60,France
+291,N 3 - Corse-Méditer.,n 3 corse mediter,60,France
+292,N 3 - Grand Est,n 3 grand est,60,France
+293,N 3 - Hauts-de-France,n 3 hauts de france,60,France
+294,N 3 - Normandie,n 3 normandie,60,France
+295,N 3 - Nouvelle-Aqu.,n 3 nouvelle aqu,60,France
+296,N 3 - Occitanie,n 3 occitanie,60,France
+297,N 3 - P. de la Loire,n 3 p de la loire,60,France
+298,N 3 - Paris Île-de-Fr.,n 3 paris ile de fr,60,France
+299,National 2 - Grp. A,national 2 grp a,60,France
+300,National 2 - Grp. B,national 2 grp b,60,France
+301,National 2 - Grp. C,national 2 grp c,60,France
+302,National 2 - Grp. D,national 2 grp d,60,France
+303,National League,national league,53,England
+304,National League,national league,116,Myanmar
+305,National League,national league,175,Wales
+306,National League North,national league north,53,England
+307,National League South,national league south,53,England
+308,NB I.,nb i,76,Hungary
+309,NB II.,nb ii,76,Hungary
+310,Nepal,nepal,118,Nepal
+311,Nepal Super League,nepal super league,118,Nepal
+312,Netherlands,netherlands,119,Netherlands
+313,New Zealand,new zealand,120,New Zealand
+314,Nicaragua,nicaragua,121,Nicaragua
+315,Nigeria,nigeria,122,Nigeria
+316,NISA,nisa,169,United States
+317,NOFV-Oberliga Nord,nofv oberliga nord,64,Germany
+318,NOFV-Oberliga Süd,nofv oberliga sud,64,Germany
+319,North Macedonia,north macedonia,123,North Macedonia
+320,Northern Ireland,northern ireland,124,Northern Ireland
+321,Norway,norway,125,Norway
+322,NPL New South Wales,npl new south wales,8,Australia
+323,NPL Victoria,npl victoria,8,Australia
+324,NZ Central League,nz central league,120,New Zealand
+325,NZ Northern League,nz northern league,120,New Zealand
+326,NZ Southern League,nz southern league,120,New Zealand
+327,O18 Div. 1 Fall,o18 div 1 fall,119,Netherlands
+328,O21 Div. 1 Fall,o21 div 1 fall,119,Netherlands
+329,O21 Div. 2 Fall,o21 div 2 fall,119,Netherlands
+330,Oberliga Baden-Württemberg,oberliga baden wurttemberg,64,Germany
+331,Oberliga Hamburg,oberliga hamburg,64,Germany
+332,Oberliga Niederrhein,oberliga niederrhein,64,Germany
+333,Oberliga Schleswig-Holstein,oberliga schleswig holstein,64,Germany
+334,Oberliga Westfalen,oberliga westfalen,64,Germany
+335,OBOS-ligaen,obos ligaen,125,Norway
+336,OL Niedersachsen,ol niedersachsen,64,Germany
+337,OL RP/Saar,ol rp saar,64,Germany
+338,Oman,oman,126,Oman
+339,Omladinska liga,omladinska liga,145,Serbia
+340,OÖ Liga,oo liga,9,Austria
+341,Palästina,palastina,127,Palästina
+342,Panama,panama,129,Panama
+343,Paraguay,paraguay,130,Paraguay
+344,Paulistão A1 - Primeira fase,paulistao a1 primeira fase,22,Brazil
+345,Persha Liga,persha liga,167,Ukraine
+346,Pershaya Liga,pershaya liga,13,Belarus
+347,Persian Gulf Pro League,persian gulf pro league,80,Iran
+348,Peru,peru,131,Peru
+349,Pervaya Liga,pervaya liga,88,Kazakhstan
+350,PFL,pfl,132,Philippines
+351,Poland,poland,133,Poland
+352,Portugal,portugal,134,Portugal
+353,PostNord-ligaen Avd. 1,postnord ligaen avd 1,125,Norway
+354,PostNord-ligaen Avd. 2,postnord ligaen avd 2,125,Norway
+355,Premier Division,premier division,82,Ireland
+356,Premier Division,premier division,124,Northern Ireland
+357,Premier League,premier league,51,Egypt
+358,Premier League,premier league,53,England
+359,Premier League,premier league,58,Fiji
+360,Premier League,premier league,65,Ghana
+361,Premier League,premier league,106,Malta
+362,Premier League,premier league,139,Russia
+363,Premier League,premier league,150,South Africa
+364,Premier League,premier league,167,Ukraine
+365,Premier League 2,premier league 2,53,England
+366,Premier Liga,premier liga,88,Kazakhstan
+367,Premier Liga,premier liga,139,Russia
+368,Premier Liga,premier liga,167,Ukraine
+369,Premiership,premiership,124,Northern Ireland
+370,Premiership,premiership,143,Scotland
+371,Premijer Liga,premijer liga,20,Bosnia-Herzegovina
+372,Premijer Liga BiH U19,premijer liga bih u19,20,Bosnia-Herzegovina
+373,Premium Liiga,premium liiga,55,Estonia
+374,Premyer Liqa,premyer liqa,10,Azerbaijan
+375,Primavera 1,primavera 1,84,Italy
+376,Primavera 2 - A,primavera 2 a,84,Italy
+377,Primavera 2 - B,primavera 2 b,84,Italy
+378,Primera B,primera b,31,Chile
+379,Primera Divisió,primera divisio,4,Andorra
+380,Primera División,primera division,31,Chile
+381,Primera Division,primera division,131,Peru
+382,Primera División,primera division,170,Uruguay
+383,Primera Division,primera division,173,Venezuela
+384,Primera División Apertura,primera division apertura,40,Costa Rica
+385,Primera División Apertura,primera division apertura,52,El Salvador
+386,Primera División Clausura,primera division clausura,130,Paraguay
+387,Primera Federación - Gr. I,primera federacion gr i,152,Spain
+388,Primera Federación - Gr. II,primera federacion gr ii,152,Spain
+389,Primera Nacional,primera nacional,6,Argentina
+390,Pro League,pro league,142,Saudi Arabia
+391,Pro League,pro league,168,United Arab Emirates
+392,Professional League,professional league,142,Saudi Arabia
+393,Promotion League,promotion league,156,Switzerland
+394,Protathlima Cyta,protathlima cyta,44,Cyprus
+395,Prva HNL - Juniori,prva hnl juniori,42,Croatia
+396,Prva liga,prva liga,123,North Macedonia
+397,Prva liga,prva liga,149,Slovenia
+398,Prva liga FBIH,prva liga fbih,20,Bosnia-Herzegovina
+399,Prva Liga RS,prva liga rs,20,Bosnia-Herzegovina
+400,Prva liga Srbije,prva liga srbije,145,Serbia
+401,Prva NL,prva nl,42,Croatia
+402,Qatar,qatar,135,Qatar
+403,Regional League Central,regional league central,9,Austria
+404,Regional League East,regional league east,9,Austria
+405,Regionalliga Bayern,regionalliga bayern,64,Germany
+406,Regionalliga Nord,regionalliga nord,64,Germany
+407,Regionalliga Northeast,regionalliga northeast,64,Germany
+408,Regionalliga Salzburg,regionalliga salzburg,9,Austria
+409,Regionalliga Südwest,regionalliga sudwest,64,Germany
+410,Regionalliga Tirol,regionalliga tirol,9,Austria
+411,Regionalliga West,regionalliga west,64,Germany
+412,Réunion,reunion,137,Réunion
+413,RF Development League,rf development league,78,India
+414,Rheinlandliga,rheinlandliga,64,Germany
+415,Romania,romania,138,Romania
+416,Russia,russia,139,Russia
+417,Rwanda,rwanda,140,Rwanda
+418,Saarlandliga,saarlandliga,64,Germany
+419,Sachsenliga,sachsenliga,64,Germany
+420,San Marino,san marino,141,San Marino
+421,Saudi Arabia,saudi arabia,142,Saudi Arabia
+422,Scotland,scotland,143,Scotland
+423,Segunda Federación - Gr. I,segunda federacion gr i,152,Spain
+424,Segunda Federación - Gr. II,segunda federacion gr ii,152,Spain
+425,Segunda Federación - Gr. III,segunda federacion gr iii,152,Spain
+426,Segunda Federación - Gr. IV,segunda federacion gr iv,152,Spain
+427,Segunda Federación - Gr. V,segunda federacion gr v,152,Spain
+428,Senegal,senegal,144,Senegal
+429,Serbia,serbia,145,Serbia
+430,Série A,serie a,22,Brazil
+431,Serie A,serie a,84,Italy
+432,Serie A Segunda Etapa,serie a segunda etapa,50,Ecuador
+433,Série B,serie b,22,Brazil
+434,Serie B,serie b,84,Italy
+435,Série C,serie c,22,Brazil
+436,Serie C - A,serie c a,84,Italy
+437,Serie C - B,serie c b,84,Italy
+438,Serie C - C,serie c c,84,Italy
+439,Serie D - A,serie d a,84,Italy
+440,Serie D - B,serie d b,84,Italy
+441,Serie D - C,serie d c,84,Italy
+442,Serie D - D,serie d d,84,Italy
+443,Serie D - E,serie d e,84,Italy
+444,Serie D - F,serie d f,84,Italy
+445,Serie D - G,serie d g,84,Italy
+446,Serie D - H,serie d h,84,Italy
+447,Serie D - I,serie d i,84,Italy
+448,Sierra Leone,sierra leone,146,Sierra Leone
+449,Singapore,singapore,147,Singapore
+450,Slovakia,slovakia,148,Slovakia
+451,Slovenia,slovenia,149,Slovenia
+452,South Africa,south africa,150,South Africa
+453,Spain,spain,152,Spain
+454,Stars League,stars league,135,Qatar
+455,Sudan,sudan,153,Sudan
+456,Super League,super league,32,China
+457,Super League,super league,67,Greece
+458,Super League,super league,78,India
+459,Super League,super league,99,Liechtenstein
+460,Super League,super league,103,Malaysia
+461,Super League,super league,156,Switzerland
+462,Super League 1,super league 1,67,Greece
+463,Super League 1 K19,super league 1 k19,67,Greece
+464,Super League 2,super league 2,67,Greece
+465,Süper Lig,super lig,164,Turkey
+466,Super Liga,super liga,110,Moldova
+467,Super liga Srbije,super liga srbije,145,Serbia
+468,Superettan,superettan,155,Sweden
+469,Superliga,superliga,46,Denmark
+470,SuperLiga,superliga,138,Romania
+471,SuperLiga,superliga,171,Uzbekistan
+472,Superliga e Kosovës,superliga e kosoves,92,Kosovo
+473,Superligaen,superligaen,46,Denmark
+474,SuperSport HNL,supersport hnl,42,Croatia
+475,Sweden,sweden,155,Sweden
+476,Switzerland,switzerland,156,Switzerland
+477,Syria,syria,157,Syria
+478,Tajikistan,tajikistan,158,Tajikistan
+479,Tanzania,tanzania,159,Tanzania
+480,Thai League,thai league,160,Thailand
+481,Thai League 2,thai league 2,160,Thailand
+482,Thailand,thailand,160,Thailand
+483,Thüringenliga,thuringenliga,64,Germany
+484,Tiroler Liga,tiroler liga,9,Austria
+485,Torn. Abertura U23,torn abertura u23,134,Portugal
+486,Torneo DIMAYOR II,torneo dimayor ii,36,Colombia
+487,Torneo Federal A,torneo federal a,6,Argentina
+488,Trinidad and Tobago,trinidad and tobago,162,Trinidad and Tobago
+489,Tunisia,tunisia,163,Tunisia
+490,Turkey,turkey,164,Turkey
+491,U18 Premier League,u18 premier league,53,England
+492,U19-BL N/NE,u19 bl n ne,64,Germany
+493,U19-BL S/SW,u19 bl s sw,64,Germany
+494,U19 Boys Division,u19 boys division,46,Denmark
+495,U19 Boys League,u19 boys league,46,Denmark
+496,U19-Bundesliga West,u19 bundesliga west,64,Germany
+497,U19 M-Liga,u19 m liga,139,Russia
+498,U19 Süper Lig,u19 super lig,164,Turkey
+499,UAE Pro League,uae pro league,168,United Arab Emirates
+500,Uganda,uganda,166,Uganda
+501,Ukraine,ukraine,167,Ukraine
+502,United Arab Emirates,united arab emirates,168,United Arab Emirates
+503,United States,united states,169,United States
+504,Uruguay,uruguay,170,Uruguay
+505,USL1,usl1,169,United States
+506,USLC,uslc,169,United States
+507,Uzbekistan,uzbekistan,171,Uzbekistan
+508,Uzbekistan Pro Liga,uzbekistan pro liga,171,Uzbekistan
+509,V.League 1,v league 1,174,Vietnam
+510,Veikkausliiga,veikkausliiga,59,Finland
+511,Venezuela,venezuela,173,Venezuela
+512,Vierde Divisie A Saturday,vierde divisie a saturday,119,Netherlands
+513,Vierde Divisie A Sunday,vierde divisie a sunday,119,Netherlands
+514,Vierde Divisie B Saturday,vierde divisie b saturday,119,Netherlands
+515,Vierde Divisie B Sunday,vierde divisie b sunday,119,Netherlands
+516,Vietnam,vietnam,174,Vietnam
+517,Virsliga,virsliga,95,Latvia
+518,VL Hessen-Mitte,vl hessen mitte,64,Germany
+519,VL Hessen-Nord,vl hessen nord,64,Germany
+520,VL Hessen-Süd,vl hessen sud,64,Germany
+521,VL Nordbaden,vl nordbaden,64,Germany
+522,VL Sachsen-Anhalt,vl sachsen anhalt,64,Germany
+523,VL Südbaden,vl sudbaden,64,Germany
+524,VL Südwest,vl sudwest,64,Germany
+525,VL Württemberg,vl wurttemberg,64,Germany
+526,Vorarlbergliga,vorarlbergliga,9,Austria
+527,Vtora Liga,vtora liga,23,Bulgaria
+528,Vysheyshaya Liga,vysheyshaya liga,13,Belarus
+529,Vysshaya Liga,vysshaya liga,158,Tajikistan
+530,Wales,wales,175,Wales
+531,Westfalenliga 1,westfalenliga 1,64,Germany
+532,Westfalenliga 2,westfalenliga 2,64,Germany
+533,Wiener Stadtliga,wiener stadtliga,9,Austria
+534,Ykkönen,ykkonen,59,Finland
+535,Zambia,zambia,176,Zambia

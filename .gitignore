@@ -1,0 +1,22 @@
+.DS_Store
+__pycache__/
+.venv/
+venv/
+
+# Local databases and oversized exports
+database.sqlite
+sqlite_sequence.sql
+
+# Raw source datasets and excluded source folders
+archive/
+sqlite_sequence/
+maindata/*
+!maindata/sql_ready/
+!maindata/sql_ready/**
+
+# Office binaries and temporary files
+~$*
+*.docx
+*.xlsx
+*.ppt
+*.pptx

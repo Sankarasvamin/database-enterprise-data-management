@@ -1,0 +1,17 @@
+position_dim_id,position_name,position_name_normalized
+1,attack,attack
+2,Attacking Midfield,attacking midfield
+3,Central Midfield,central midfield
+4,Centre-Back,centre back
+5,Centre-Forward,centre forward
+6,defence,defence
+7,Defensive Midfield,defensive midfield
+8,Goalkeeper,goalkeeper
+9,Left-Back,left back
+10,Left Midfield,left midfield
+11,Left Winger,left winger
+12,midfield,midfield
+13,Right-Back,right back
+14,Right Midfield,right midfield
+15,Right Winger,right winger
+16,Second Striker,second striker
